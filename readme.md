@@ -9,3 +9,8 @@
 ---
 * https://revf.tistory.com/280
 * https://corp.onda.me/post/developing-llm-applications-with-langchain
+
+
+## 레퍼런스 ##
+
+* https://www.youtube.com/@practical-ai
