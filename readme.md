@@ -12,6 +12,10 @@
 * https://revf.tistory.com/280
 * https://corp.onda.me/post/developing-llm-applications-with-langchain
 
+## Huggingface ##
+
+* [Huggingface 허깅페이스 - NLP](https://hipster4020.tistory.com/176)
+
 ## NLP ##
 
 * [형태소 분석기 정리](https://hipster4020.tistory.com/184)
