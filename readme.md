@@ -13,7 +13,7 @@
 * https://corp.onda.me/post/developing-llm-applications-with-langchain
 
 ## Huggingface ##
-
+* [Huggingface 허깅페이스 파헤치기](https://hipster4020.tistory.com/172)
 * [Huggingface 허깅페이스 - NLP](https://hipster4020.tistory.com/176)
 
 ## NLP ##
