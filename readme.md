@@ -12,7 +12,7 @@
 
 ## LangChain ###
 
-* https://github.com/gkamradt/langchain-tutorials
+* [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
 
 * #4. [Building a Document-based Question Answering System with LangChain using LLM model](https://medium.com/@nageshmashette32/building-a-document-based-question-answering-system-with-langchain-using-llm-model-fb22e47a965c)
 
