@@ -8,6 +8,8 @@
 
 * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
 
+* [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+
 ## LangChain ###
 
 * https://github.com/gkamradt/langchain-tutorials
