@@ -6,6 +6,8 @@
 
 * https://a16z.com/emerging-architectures-for-llm-applications/
 
+* [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
+
 ## LangChain ###
 
 * https://github.com/gkamradt/langchain-tutorials
