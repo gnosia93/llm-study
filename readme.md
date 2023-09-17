@@ -4,6 +4,8 @@
 
 * [벡터 데이터베이스](https://velog.io/@tura/vector-databases)
 
+* https://a16z.com/emerging-architectures-for-llm-applications/
+
 ## LangChain ###
 
 * https://github.com/gkamradt/langchain-tutorials
