@@ -3,7 +3,8 @@
 * [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
 * [벡터 데이터베이스](https://velog.io/@tura/vector-databases)
-
+  - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
+    
 * https://a16z.com/emerging-architectures-for-llm-applications/
 
 * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
