@@ -30,6 +30,11 @@
 * https://revf.tistory.com/280
 * https://corp.onda.me/post/developing-llm-applications-with-langchain
 
+## SageMaker ##
+
+* https://huggingface.co/blog/sagemaker-huggingface-llm
+
+
 ## Huggingface ##
 
 * https://huggingface.co/blog/getting-started-with-embeddings
