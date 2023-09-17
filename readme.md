@@ -34,6 +34,7 @@
 
 * https://huggingface.co/blog/sagemaker-huggingface-llm
 
+* [Deep Learning Container Images](https://github.com/aws/deep-learning-containers/blob/master/available_images.md#huggingface-text-generation-inference-containers)
 
 ## Huggingface ##
 
