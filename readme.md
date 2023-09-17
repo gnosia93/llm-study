@@ -53,7 +53,8 @@
 
 * https://dev.to/aws/building-an-aws-well-architected-chatbot-with-langchain-13cd
 * https://github.com/aws-samples/aws-genai-llm-chatbot
-
+* https://itnext.io/building-a-multi-turn-chatbot-with-gpt-and-sagemaker-a-step-by-step-guide-7d75f33ccea1
+  
 ## 레퍼런스 ##
 
 * https://www.youtube.com/@practical-ai
