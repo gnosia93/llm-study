@@ -15,7 +15,8 @@
 ## LangChain ###
 
 * [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
-
+  - https://python.langchain.com/docs/get_started/introduction
+  
 * #4. [Building a Document-based Question Answering System with LangChain using LLM model](https://medium.com/@nageshmashette32/building-a-document-based-question-answering-system-with-langchain-using-llm-model-fb22e47a965c)
 
 * #3. [LangChain이란? LangChain으로 강력한 LLM 서비스 구축하기](https://hipster4020.tistory.com/189)
