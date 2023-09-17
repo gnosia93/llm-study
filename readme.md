@@ -39,6 +39,11 @@
 * [형태소 분석기 정리](https://hipster4020.tistory.com/184)
 
 
+## ChatBot ##
+
+* https://dev.to/aws/building-an-aws-well-architected-chatbot-with-langchain-13cd
+
+
 ## 레퍼런스 ##
 
 * https://www.youtube.com/@practical-ai
