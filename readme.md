@@ -7,6 +7,8 @@
 
 * https://github.com/gkamradt/langchain-tutorials
 
+* #4. [Building a Document-based Question Answering System with LangChain using LLM model](https://medium.com/@nageshmashette32/building-a-document-based-question-answering-system-with-langchain-using-llm-model-fb22e47a965c)
+
 * #3. [LangChain이란? LangChain으로 강력한 LLM 서비스 구축하기](https://hipster4020.tistory.com/189)
 
 * #2. [WebResearchRetriever을 활용하여 RAG (Retrieval Augmented Generation) 구현하기](https://littlefoxdiary.tistory.com/116)
