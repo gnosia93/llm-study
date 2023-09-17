@@ -30,6 +30,9 @@
 * https://corp.onda.me/post/developing-llm-applications-with-langchain
 
 ## Huggingface ##
+
+* https://huggingface.co/blog/getting-started-with-embeddings
+
 * [Huggingface 허깅페이스 파헤치기](https://hipster4020.tistory.com/172)
 * [Huggingface 허깅페이스 - NLP](https://hipster4020.tistory.com/176)
 * https://github.com/huggingface
