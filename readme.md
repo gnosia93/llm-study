@@ -52,7 +52,7 @@
 ## ChatBot ##
 
 * https://dev.to/aws/building-an-aws-well-architected-chatbot-with-langchain-13cd
-
+* https://github.com/aws-samples/aws-genai-llm-chatbot
 
 ## 레퍼런스 ##
 
