@@ -4,7 +4,8 @@
 
 * [벡터 데이터베이스](https://velog.io/@tura/vector-databases)
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
-    
+  - https://unzip.dev/0x014-vector-databases/
+      
 * https://a16z.com/emerging-architectures-for-llm-applications/
 
 * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
