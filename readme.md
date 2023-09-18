@@ -12,6 +12,9 @@
 
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 
+* [RAG 란?](https://tilnote.io/pages/64d2db8aa3d7fc4d28c28d3c)
+
+
 ## LangChain ###
 
 * [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
