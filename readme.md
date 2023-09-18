@@ -67,6 +67,7 @@
 
 * [함수주석](https://devpouch.tistory.com/189)
 
+* [파이썬 % // -> ** @ 등 파이썬 기호 완벽정리](https://modulabs.co.kr/blog/python-strangethings/)
   
 ## 레퍼런스 ##
 
