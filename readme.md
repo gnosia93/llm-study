@@ -36,6 +36,8 @@
 
 * [Deep Learning Container Images](https://github.com/aws/deep-learning-containers/blob/master/available_images.md#huggingface-text-generation-inference-containers)
 
+* [Fundamentals of combining LangChain and Amazon SageMaker (with Llama 2 Example)](https://medium.com/@ryanlempka/fundamentals-of-combining-langchain-and-sagemaker-with-a-llama-2-example-694924ab0d92)
+
 ## Huggingface ##
 
 * https://huggingface.co/blog/getting-started-with-embeddings
