@@ -62,6 +62,11 @@
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
+
+## Python ##
+
+* [함수주석](https://devpouch.tistory.com/189)
+
   
 ## 레퍼런스 ##
 
