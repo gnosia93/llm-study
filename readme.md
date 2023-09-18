@@ -56,6 +56,10 @@
 * https://itnext.io/building-a-multi-turn-chatbot-with-gpt-and-sagemaker-a-step-by-step-guide-7d75f33ccea1
 * https://aws.amazon.com/ko/blogs/tech/sagemaker-jumpstart-vector-store-llama2-chatbot/
 
+
+## Pytorch ##
+
+* https://tutorials.pytorch.kr/beginner/basics/intro.html
   
 ## 레퍼런스 ##
 
