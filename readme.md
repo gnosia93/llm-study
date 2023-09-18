@@ -14,6 +14,8 @@
 
 * [RAG 란?](https://tilnote.io/pages/64d2db8aa3d7fc4d28c28d3c)
 
+* [Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library](https://aws.amazon.com/ko/blogs/machine-learning/fine-tune-gpt-j-using-an-amazon-sagemaker-hugging-face-estimator-and-the-model-parallel-library/)
+
 
 ## LangChain ###
 
