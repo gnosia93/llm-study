@@ -50,6 +50,7 @@
 
 * [형태소 분석기 정리](https://hipster4020.tistory.com/184)
 
+* [[Paper Review] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG)](https://www.youtube.com/watch?v=gtOdvAQk6YU)
 
 ## ChatBot ##
 
