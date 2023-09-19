@@ -70,6 +70,9 @@
 
 * [[Paper Review] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG)](https://www.youtube.com/watch?v=gtOdvAQk6YU)
 
+* [Huggleface NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf)
+
+
 ## ChatBot ##
 
 * https://dev.to/aws/building-an-aws-well-architected-chatbot-with-langchain-13cd
