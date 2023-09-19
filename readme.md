@@ -18,6 +18,8 @@
 
 * [Augmenting Large Language Models with Verified Information Sources: Leveraging AWS SageMaker and OpenSearch for Knowledge-Driven Question Answering](https://medium.com/@shankar.arunp/augmenting-large-language-models-with-verified-information-sources-leveraging-aws-sagemaker-and-f6be17fb10a8)
 
+* [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
+
 ## LangChain ###
 
 * [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
