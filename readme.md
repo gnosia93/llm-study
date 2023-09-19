@@ -46,6 +46,7 @@
 
 * https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/
 
+* [OpenAI 파인튜닝](https://lsjsj92.tistory.com/656)
 
 ## SageMaker ##
 
