@@ -20,6 +20,8 @@
 
 * [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
 
+* [양자화](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC)
+
 ## LangChain ###
 
 * [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
