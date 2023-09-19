@@ -1,5 +1,7 @@
 ## ML Fundamentals ##
 
+* [트랜스포머 강좌](https://wikidocs.net/book/8056)
+
 * [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
 * [벡터 데이터베이스](https://velog.io/@tura/vector-databases)
