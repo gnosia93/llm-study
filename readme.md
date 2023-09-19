@@ -40,6 +40,11 @@
 * https://revf.tistory.com/280
 * https://corp.onda.me/post/developing-llm-applications-with-langchain
 
+## Fine Tunning ##
+
+* https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/
+
+
 ## SageMaker ##
 
 * https://huggingface.co/blog/sagemaker-huggingface-llm
