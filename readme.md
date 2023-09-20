@@ -1,6 +1,5 @@
 ## ML Fundamentals ##
 
-* [트랜스포머 강좌](https://wikidocs.net/book/8056)
 
 * [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
@@ -72,7 +71,9 @@
 
 * [[Paper Review] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG)](https://www.youtube.com/watch?v=gtOdvAQk6YU)
 
-* [Huggleface NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf)
+* [Huggingface NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf)
+
+* [Huggingface NLP Course - Korean](https://wikidocs.net/book/8056)
 
 
 ## ChatBot ##
