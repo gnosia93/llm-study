@@ -75,6 +75,7 @@
 
 * [Huggingface NLP Course - Korean](https://wikidocs.net/book/8056)
 
+* [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
 
 ## ChatBot ##
 
