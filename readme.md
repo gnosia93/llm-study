@@ -77,6 +77,8 @@
 
 * [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
 
+* [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
 ## ChatBot ##
 
 * https://dev.to/aws/building-an-aws-well-architected-chatbot-with-langchain-13cd
