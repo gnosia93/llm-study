@@ -27,6 +27,11 @@
 
 ## LangChain ###
 
+
+### 문서 요약 ###
+
+* https://teddylee777.github.io/langchain/langchain-tutorial-05/
+
 * [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
   - https://python.langchain.com/docs/get_started/introduction
   
