@@ -1,5 +1,6 @@
 ## ML Fundamentals ##
 
+* [임베딩이란](https://today-gaze-697915.framer.app/ko/blog/what-is-embedding-and-how-to-use?fbclid=IwAR0_nBjBHq3I96SmbqN0mVLj_rnlbo-YaY6N3kN3yIz8e1DzUuYl6TmDBkw)
 
 * [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
