@@ -108,6 +108,8 @@
 
 * [처음배우는 딥러닝 챗봇](https://github.com/keiraydev/chatbot)
 
+* [GRADIO-LangChain](https://velog.io/@t_wave/gradiolangchainchatbot)
+
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
