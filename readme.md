@@ -35,7 +35,7 @@
 
 * https://velog.io/@tobigs-nlp/Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks
 * https://blog.softly.ai/llm-based-on-our-business/
-
+  
 
 
 ## LangChain ###
