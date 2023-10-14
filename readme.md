@@ -104,6 +104,7 @@
 * https://itnext.io/building-a-multi-turn-chatbot-with-gpt-and-sagemaker-a-step-by-step-guide-7d75f33ccea1
 * https://aws.amazon.com/ko/blogs/tech/sagemaker-jumpstart-vector-store-llama2-chatbot/
 
+* [딥러닝 챗봇 자습서](https://hashdork.com/ko/create-a-deep-learning-chatbot-with-python/)
 
 ## Pytorch ##
 
