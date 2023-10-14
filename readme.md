@@ -106,6 +106,8 @@
 
 * [딥러닝 챗봇 자습서](https://hashdork.com/ko/create-a-deep-learning-chatbot-with-python/)
 
+* [처음배우는 딥러닝 챗봇](https://github.com/keiraydev/chatbot)
+
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
