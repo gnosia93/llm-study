@@ -41,6 +41,9 @@
 
 ## LangChain ###
 
+* [langchain-how-to-create-custom-knowledge-chatbots](https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/)
+
+
 * [문서요약](https://teddylee777.github.io/langchain/langchain-tutorial-05/)
 * [데이터분석](https://teddylee777.github.io/langchain/langchain-tutorial-04/)
 * [챗모듈](https://teddylee777.github.io/langchain/langchain-tutorial-03/)
