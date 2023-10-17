@@ -131,6 +131,11 @@
 * [.join() 함수](https://blockdmask.tistory.com/468)
 
 * [파이썬 비동기 IO](https://it-eldorado.tistory.com/159)
+
+
+## 타입스크립트 ##
+
+* [타입스크립트 핸드북](https://joshua1988.github.io/ts/guide/interfaces.html#%EC%9D%BD%EA%B8%B0-%EC%A0%84%EC%9A%A9-%EB%B0%B0%EC%97%B4)
   
 ## 레퍼런스 ##
 
