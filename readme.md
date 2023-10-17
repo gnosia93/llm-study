@@ -45,6 +45,9 @@
 
 * https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
 
+
+* [Google Sarch API](https://zzaebok.github.io/machine_learning/llm/langchain/)
+
 * [문서요약](https://teddylee777.github.io/langchain/langchain-tutorial-05/)
 * [데이터분석](https://teddylee777.github.io/langchain/langchain-tutorial-04/)
 * [챗모듈](https://teddylee777.github.io/langchain/langchain-tutorial-03/)
