@@ -45,6 +45,7 @@
 
 * https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
 
+* [랭체인 에이전트와 도구 사용하기](https://anpigon.tistory.com/399)
 
 * [Google Sarch API](https://zzaebok.github.io/machine_learning/llm/langchain/)
 
