@@ -121,6 +121,11 @@
 * [Bedrock 봇?](https://github.com/seungwon2/Bedrock-emotional-cs-bot)
 
 
+## MLOps ##
+
+* https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/
+
+
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
