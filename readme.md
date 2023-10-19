@@ -118,6 +118,9 @@
 
 * [GRADIO-LangChain](https://velog.io/@t_wave/gradiolangchainchatbot)
 
+* [Bedrock 봇?](https://github.com/seungwon2/Bedrock-emotional-cs-bot)
+
+
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
