@@ -21,7 +21,6 @@
   * https://blog.softly.ai/llm-based-on-our-business/
   * https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1  
 
-* [Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library](https://aws.amazon.com/ko/blogs/machine-learning/fine-tune-gpt-j-using-an-amazon-sagemaker-hugging-face-estimator-and-the-model-parallel-library/)
 
 * [Augmenting Large Language Models with Verified Information Sources: Leveraging AWS SageMaker and OpenSearch for Knowledge-Driven Question Answering](https://medium.com/@shankar.arunp/augmenting-large-language-models-with-verified-information-sources-leveraging-aws-sagemaker-and-f6be17fb10a8)
 
