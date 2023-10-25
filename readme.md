@@ -31,6 +31,11 @@
     
 * [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
 
+## 통계 ##
+
+* [이산확률분포](https://m.blog.naver.com/algosn/221288016739)
+
+
 ## AWS ##
 
 * https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/
