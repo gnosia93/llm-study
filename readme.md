@@ -16,6 +16,10 @@
 
 * [RAG 란?](https://tilnote.io/pages/64d2db8aa3d7fc4d28c28d3c)
 
+  * https://velog.io/@tobigs-nlp/Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks
+  * https://blog.softly.ai/llm-based-on-our-business/
+  * https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1  
+
 * [Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library](https://aws.amazon.com/ko/blogs/machine-learning/fine-tune-gpt-j-using-an-amazon-sagemaker-hugging-face-estimator-and-the-model-parallel-library/)
 
 * [Augmenting Large Language Models with Verified Information Sources: Leveraging AWS SageMaker and OpenSearch for Knowledge-Driven Question Answering](https://medium.com/@shankar.arunp/augmenting-large-language-models-with-verified-information-sources-leveraging-aws-sagemaker-and-f6be17fb10a8)
@@ -36,17 +40,15 @@
 * [이산확률분포](https://m.blog.naver.com/algosn/221288016739)
 
 
-## AWS ##
+## Examples ##
 
 * https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/
 
 * https://github.com/aws-samples/aws-genai-llm-chatbot/#deployment-dependencies-installation
-  
-## RAG ##
 
-* https://velog.io/@tobigs-nlp/Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks
-* https://blog.softly.ai/llm-based-on-our-business/
-* https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1  
+* [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+  
+
 
 
 ## LangChain ###
