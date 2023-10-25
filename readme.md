@@ -90,6 +90,8 @@
  
 * [Fine-tuning Large Language Models (LLMs) | w/ Example Code](https://www.youtube.com/watch?v=eC6Hd1hFvos)
 
+* [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://www.youtube.com/watch?v=BJqwmDpa0wM)
+
 ## SageMaker ##
 
 * https://huggingface.co/blog/sagemaker-huggingface-llm
