@@ -27,6 +27,7 @@
   - [Compression](https://computing-jhson.tistory.com/26)
   - [Pytorch Pruning](https://computing-jhson.tistory.com/42)
   - [Quantization](https://computing-jhson.tistory.com/65)
+  - [,](https://computing-jhson.tistory.com/66)
     
 * [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
 
