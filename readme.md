@@ -84,7 +84,11 @@
 
 * [허깅페이스와 LoRA를 사용하여 단일 Amazon SageMaker GPU에서 대규모 언어 모델(LLM) 훈련하기](https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/)
 
+* [Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library](https://aws.amazon.com/ko/blogs/machine-learning/fine-tune-gpt-j-using-an-amazon-sagemaker-hugging-face-estimator-and-the-model-parallel-library/)
+
 * [OpenAI 파인튜닝](https://lsjsj92.tistory.com/656)
+ 
+
 
 ## SageMaker ##
 
