@@ -7,7 +7,8 @@
 * [벡터 데이터베이스](https://velog.io/@tura/vector-databases)
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
   - https://unzip.dev/0x014-vector-databases/
-      
+  - [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
+     
 * https://a16z.com/emerging-architectures-for-llm-applications/
 
 * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
@@ -33,7 +34,6 @@
   - [Quantization](https://computing-jhson.tistory.com/65)
   - [,](https://computing-jhson.tistory.com/66)
     
-* [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
 
 ## 통계 ##
 
