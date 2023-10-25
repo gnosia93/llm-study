@@ -88,7 +88,7 @@
 
 * [OpenAI 파인튜닝](https://lsjsj92.tistory.com/656)
  
-
+* [Fine-tuning Large Language Models (LLMs) | w/ Example Code](https://www.youtube.com/watch?v=eC6Hd1hFvos)
 
 ## SageMaker ##
 
