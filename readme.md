@@ -40,6 +40,11 @@
     - [2020 캐글러닝데이 - mlflow로 간단한 MLOps 구축하기](https://www.youtube.com/watch?v=OB9vbJr8XdQ)
     - [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
 
+* 분산학습
+    - [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
+
+
+
 ## 통계 ##
 
 * [이산확률분포](https://m.blog.naver.com/algosn/221288016739)
