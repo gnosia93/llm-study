@@ -1,12 +1,12 @@
 ## ML Fundamentals ##
 
-* 임베딩
+### 임베딩 ###
   * [임베딩이란](https://today-gaze-697915.framer.app/ko/blog/what-is-embedding-and-how-to-use?fbclid=IwAR0_nBjBHq3I96SmbqN0mVLj_rnlbo-YaY6N3kN3yIz8e1DzUuYl6TmDBkw)
   * [워드 임베딩의 한계 / 문장 임베딩 / Bidirectional Model / Attention / BERT (김도형 연구원)](https://www.youtube.com/watch?v=F10Ii6x2y3Q)
     
 * [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
-* [벡터 데이터베이스](https://velog.io/@tura/vector-databases)
+### [벡터 데이터베이스](https://velog.io/@tura/vector-databases) ###
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
   - https://unzip.dev/0x014-vector-databases/
   - [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
@@ -17,7 +17,7 @@
 
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 
-* [RAG 란?](https://tilnote.io/pages/64d2db8aa3d7fc4d28c28d3c)
+### [RAG 란?](https://tilnote.io/pages/64d2db8aa3d7fc4d28c28d3c) ###
 
   * https://velog.io/@tobigs-nlp/Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks
   * https://blog.softly.ai/llm-based-on-our-business/
@@ -26,7 +26,7 @@
 
 * [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
 
-* [양자화](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC)
+### [양자화](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC) ###
   - https://gaussian37.github.io/dl-concept-quantization/
   - [Compression](https://computing-jhson.tistory.com/26)
   - [Pytorch Pruning](https://computing-jhson.tistory.com/42)
@@ -34,15 +34,15 @@
   - [,](https://computing-jhson.tistory.com/66)
 
 
-* Transformer
+### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
   * [[챗GPT 러닝데이] Transformer 모델 개요와 GPT3 모델 활용 실습](https://www.youtube.com/watch?v=uzcRCmg9hlc)
 
-* MLOps
+### MLOps ###
     - [2020 캐글러닝데이 - mlflow로 간단한 MLOps 구축하기](https://www.youtube.com/watch?v=OB9vbJr8XdQ)
     - [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
 
-* 분산학습
+### 분산학습 ###
     - [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 
 
