@@ -167,11 +167,14 @@
 * [타입스크립트 핸드북](https://joshua1988.github.io/ts/guide/interfaces.html#%EC%9D%BD%EA%B8%B0-%EC%A0%84%EC%9A%A9-%EB%B0%B0%EC%97%B4)
 
 * [VSCode 타입스크립트 개발](https://mine-it-record.tistory.com/578)
+
   
-## 레퍼런스 ##
+## 참고 사이트 ##
 
 * https://www.youtube.com/@practical-ai
 
 * 인공지능 개발자 모임 - http://aidev.co.kr/
 
 * https://civitai.com/          --- loRA + stable defussion + GPU 8G 이상. 
+
+* 인공지능 팩토리 - https://www.youtube.com/@aifactoryspace
