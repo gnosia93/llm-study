@@ -35,6 +35,11 @@
 
 * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
 
+
+* MLOps
+    - [2020 캐글러닝데이 - mlflow로 간단한 MLOps 구축하기](https://www.youtube.com/watch?v=OB9vbJr8XdQ)
+
+
 ## 통계 ##
 
 * [이산확률분포](https://m.blog.naver.com/algosn/221288016739)
