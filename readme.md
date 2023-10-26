@@ -177,6 +177,7 @@
 
 * [VSCode 타입스크립트 개발](https://mine-it-record.tistory.com/578)
 
+* https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/
   
 ## 참고 사이트 ##
 
