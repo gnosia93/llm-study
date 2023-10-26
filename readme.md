@@ -93,6 +93,8 @@
 * Lora
   * [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://www.youtube.com/watch?v=BJqwmDpa0wM)
   * [[챗GPT 러닝데이 | 챗GPT말고 LLM] LoRA로 빠르게 나만의 모델을 만들어보자 - 김용담](https://www.youtube.com/watch?v=66GD0Bj5Whk)
+  * https://github.com/microsoft/LoRA
+  * https://github.com/huggingface/peft 
 
 ## SageMaker ##
 
