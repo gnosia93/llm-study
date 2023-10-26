@@ -174,4 +174,4 @@
 
 * 인공지능 개발자 모임 - http://aidev.co.kr/
 
-* https://civitai.com/
+* https://civitai.com/          --- loRA + stable defussion + GPU 8G 이상. 
