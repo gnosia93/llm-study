@@ -173,3 +173,5 @@
 * https://www.youtube.com/@practical-ai
 
 * 인공지능 개발자 모임 - http://aidev.co.kr/
+
+* https://civitai.com/
