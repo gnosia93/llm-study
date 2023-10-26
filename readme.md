@@ -6,7 +6,7 @@
 
 
     
-* [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
+
 
 ### [벡터 데이터베이스](https://velog.io/@tura/vector-databases) ###
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
@@ -34,7 +34,7 @@
   - [Pytorch Pruning](https://computing-jhson.tistory.com/42)
   - [Quantization](https://computing-jhson.tistory.com/65)
   - [,](https://computing-jhson.tistory.com/66)
-
+  - [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
