@@ -3,6 +3,8 @@
 ### 임베딩 ###
   * [임베딩이란](https://today-gaze-697915.framer.app/ko/blog/what-is-embedding-and-how-to-use?fbclid=IwAR0_nBjBHq3I96SmbqN0mVLj_rnlbo-YaY6N3kN3yIz8e1DzUuYl6TmDBkw)
   * [워드 임베딩의 한계 / 문장 임베딩 / Bidirectional Model / Attention / BERT (김도형 연구원)](https://www.youtube.com/watch?v=F10Ii6x2y3Q)
+
+
     
 * [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
