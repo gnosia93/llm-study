@@ -32,7 +32,8 @@
   - [Pytorch Pruning](https://computing-jhson.tistory.com/42)
   - [Quantization](https://computing-jhson.tistory.com/65)
   - [,](https://computing-jhson.tistory.com/66)
-    
+
+* [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
 
 ## 통계 ##
 
