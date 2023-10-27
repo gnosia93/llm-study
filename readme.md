@@ -78,13 +78,9 @@
 ## Fine Tunning ##
 
 * [허깅페이스와 LoRA를 사용하여 단일 Amazon SageMaker GPU에서 대규모 언어 모델(LLM) 훈련하기](https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/)
-
 * [Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library](https://aws.amazon.com/ko/blogs/machine-learning/fine-tune-gpt-j-using-an-amazon-sagemaker-hugging-face-estimator-and-the-model-parallel-library/)
-
 * [OpenAI 파인튜닝](https://lsjsj92.tistory.com/656)
- 
 * [Fine-tuning Large Language Models (LLMs) | w/ Example Code](https://www.youtube.com/watch?v=eC6Hd1hFvos)
-
 * LoRA
   * [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://www.youtube.com/watch?v=BJqwmDpa0wM)
   * [[챗GPT 러닝데이 | 챗GPT말고 LLM] LoRA로 빠르게 나만의 모델을 만들어보자 - 김용담](https://www.youtube.com/watch?v=66GD0Bj5Whk)
@@ -94,20 +90,15 @@
 ## AWS / SageMaker ##
 
 * https://huggingface.co/blog/sagemaker-huggingface-llm
-
 * [Deep Learning Container Images](https://github.com/aws/deep-learning-containers/blob/master/available_images.md#huggingface-text-generation-inference-containers)
-
 * [Fundamentals of combining LangChain and Amazon SageMaker (with Llama 2 Example)](https://medium.com/@ryanlempka/fundamentals-of-combining-langchain-and-sagemaker-with-a-llama-2-example-694924ab0d92)
-
 * https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/
-
 * https://github.com/aws-samples/aws-genai-llm-chatbot/#deployment-dependencies-installation
 
   
 ## Huggingface ##
 
 * https://huggingface.co/blog/getting-started-with-embeddings
-
 * [Huggingface 허깅페이스 파헤치기](https://hipster4020.tistory.com/172)
 * [Huggingface 허깅페이스 - NLP](https://hipster4020.tistory.com/176)
 * https://github.com/huggingface
@@ -115,15 +106,10 @@
 ## NLP ##
 
 * [형태소 분석기 정리](https://hipster4020.tistory.com/184)
-
 * [[Paper Review] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG)](https://www.youtube.com/watch?v=gtOdvAQk6YU)
-
 * [Huggingface NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf)
-
 * [Huggingface NLP Course - Korean](https://wikidocs.net/book/8056)
-
 * [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
-
 * [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 ## ChatBot ##
@@ -132,13 +118,9 @@
 * https://github.com/aws-samples/aws-genai-llm-chatbot
 * https://itnext.io/building-a-multi-turn-chatbot-with-gpt-and-sagemaker-a-step-by-step-guide-7d75f33ccea1
 * https://aws.amazon.com/ko/blogs/tech/sagemaker-jumpstart-vector-store-llama2-chatbot/
-
 * [딥러닝 챗봇 자습서](https://hashdork.com/ko/create-a-deep-learning-chatbot-with-python/)
-
 * [처음배우는 딥러닝 챗봇](https://github.com/keiraydev/chatbot)
-
 * [GRADIO-LangChain](https://velog.io/@t_wave/gradiolangchainchatbot)
-
 * [Bedrock 봇?](https://github.com/seungwon2/Bedrock-emotional-cs-bot)
 
 
