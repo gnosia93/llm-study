@@ -163,6 +163,7 @@
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
+* [Long Short-Term Memory with PyTorch + Lightning](https://www.youtube.com/watch?v=RHGiXPuo_pI)
 
 ## Python ##
 
