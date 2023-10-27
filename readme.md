@@ -169,7 +169,8 @@
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
 * [Long Short-Term Memory with PyTorch + Lightning](https://www.youtube.com/watch?v=RHGiXPuo_pI)
-
+* [파이토치 프로파일러](https://jh-bk.tistory.com/20)
+  
 ## Python ##
 
 * [함수주석](https://devpouch.tistory.com/189)
