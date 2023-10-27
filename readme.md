@@ -36,6 +36,7 @@
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
   * [[챗GPT 러닝데이] Transformer 모델 개요와 GPT3 모델 활용 실습](https://www.youtube.com/watch?v=uzcRCmg9hlc)
+  * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 
 ### MLOps ###
@@ -53,31 +54,15 @@
 * [이산확률분포](https://m.blog.naver.com/algosn/221288016739)
 
 
-## Examples ##
-
-* https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/
-
-* https://github.com/aws-samples/aws-genai-llm-chatbot/#deployment-dependencies-installation
-
-* [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-  
-
-
-
 ## LangChain ###
 
 * [langchain-how-to-create-custom-knowledge-chatbots](https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/)
-
 * https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
-
 * [랭체인 에이전트와 도구 사용하기](https://anpigon.tistory.com/399)
-
 * [Google Sarch API](https://zzaebok.github.io/machine_learning/llm/langchain/)
-
 * [문서요약](https://teddylee777.github.io/langchain/langchain-tutorial-05/)
 * [데이터분석](https://teddylee777.github.io/langchain/langchain-tutorial-04/)
 * [챗모듈](https://teddylee777.github.io/langchain/langchain-tutorial-03/)
-  
 * [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
   - https://python.langchain.com/docs/get_started/introduction
   
@@ -106,7 +91,7 @@
   * https://github.com/microsoft/LoRA
   * https://github.com/huggingface/peft 
 
-## SageMaker ##
+## AWS / SageMaker ##
 
 * https://huggingface.co/blog/sagemaker-huggingface-llm
 
@@ -114,6 +99,11 @@
 
 * [Fundamentals of combining LangChain and Amazon SageMaker (with Llama 2 Example)](https://medium.com/@ryanlempka/fundamentals-of-combining-langchain-and-sagemaker-with-a-llama-2-example-694924ab0d92)
 
+* https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/
+
+* https://github.com/aws-samples/aws-genai-llm-chatbot/#deployment-dependencies-installation
+
+  
 ## Huggingface ##
 
 * https://huggingface.co/blog/getting-started-with-embeddings
@@ -163,28 +153,20 @@
 ## Python ##
 
 * [함수주석](https://devpouch.tistory.com/189)
-
 * [파이썬 % // -> ** @ 등 파이썬 기호 완벽정리](https://modulabs.co.kr/blog/python-strangethings/)
-
 * [.join() 함수](https://blockdmask.tistory.com/468)
-
 * [파이썬 비동기 IO](https://it-eldorado.tistory.com/159)
 
 
 ## 타입스크립트 ##
 
 * [타입스크립트 핸드북](https://joshua1988.github.io/ts/guide/interfaces.html#%EC%9D%BD%EA%B8%B0-%EC%A0%84%EC%9A%A9-%EB%B0%B0%EC%97%B4)
-
 * [VSCode 타입스크립트 개발](https://mine-it-record.tistory.com/578)
-
 * https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/
   
 ## 참고 사이트 ##
 
 * https://www.youtube.com/@practical-ai
-
 * 인공지능 개발자 모임 - http://aidev.co.kr/
-
 * https://civitai.com/          --- loRA + stable defussion + GPU 8G 이상. 
-
 * 인공지능 팩토리 - https://www.youtube.com/@aifactoryspace
