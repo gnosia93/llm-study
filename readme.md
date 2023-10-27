@@ -40,12 +40,13 @@
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
   * [[챗GPT 러닝데이] Transformer 모델 개요와 GPT3 모델 활용 실습](https://www.youtube.com/watch?v=uzcRCmg9hlc)
 
+
 ### MLOps ###
-    - [2020 캐글러닝데이 - mlflow로 간단한 MLOps 구축하기](https://www.youtube.com/watch?v=OB9vbJr8XdQ)
-    - [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
+  * [2020 캐글러닝데이 - mlflow로 간단한 MLOps 구축하기](https://www.youtube.com/watch?v=OB9vbJr8XdQ)
+  * [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
 
 ### 분산학습 ###
-    - [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
+  * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 
 
 * https://www.voiceflow.com/blog/llms-wont-replace-nlus
