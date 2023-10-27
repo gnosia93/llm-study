@@ -155,3 +155,4 @@
 * 인공지능 개발자 모임 - http://aidev.co.kr/
 * https://civitai.com/          --- loRA + stable defussion + GPU 8G 이상. 
 * 인공지능 팩토리 - https://www.youtube.com/@aifactoryspace
+* [GPU 서버](https://www.youtube.com/watch?v=Jd0VLyf5pS8)
