@@ -81,18 +81,14 @@
 * [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
   - https://python.langchain.com/docs/get_started/introduction
   
-* #4. [Building a Document-based Question Answering System with LangChain using LLM model](https://medium.com/@nageshmashette32/building-a-document-based-question-answering-system-with-langchain-using-llm-model-fb22e47a965c)
+  * #4. [Building a Document-based Question Answering System with LangChain using LLM model](https://medium.com/@nageshmashette32/building-a-document-based-question-answering-system-with-langchain-using-llm-model-fb22e47a965c)
+  
+  * #3. [LangChain이란? LangChain으로 강력한 LLM 서비스 구축하기](https://hipster4020.tistory.com/189)
+  
+  * #2. [WebResearchRetriever을 활용하여 RAG (Retrieval Augmented Generation) 구현하기](https://littlefoxdiary.tistory.com/116)
+  
+  * #1. [LangChain이란? | 파이썬으로 LangChain 시작하기](https://littlefoxdiary.tistory.com/114)
 
-* #3. [LangChain이란? LangChain으로 강력한 LLM 서비스 구축하기](https://hipster4020.tistory.com/189)
-
-* #2. [WebResearchRetriever을 활용하여 RAG (Retrieval Augmented Generation) 구현하기](https://littlefoxdiary.tistory.com/116)
-
-* #1. [LangChain이란? | 파이썬으로 LangChain 시작하기](https://littlefoxdiary.tistory.com/114)
-
-
----
-* https://revf.tistory.com/280
-* https://corp.onda.me/post/developing-llm-applications-with-langchain
 
 ## Fine Tunning ##
 
@@ -161,6 +157,8 @@
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
 * [Long Short-Term Memory with PyTorch + Lightning](https://www.youtube.com/watch?v=RHGiXPuo_pI)
 * [파이토치 프로파일러](https://jh-bk.tistory.com/20)
+* [파이토치 Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)]
+
   
 ## Python ##
 
