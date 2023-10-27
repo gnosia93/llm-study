@@ -134,7 +134,7 @@
 * [파이썬 % // -> ** @ 등 파이썬 기호 완벽정리](https://modulabs.co.kr/blog/python-strangethings/)
 * [.join() 함수](https://blockdmask.tistory.com/468)
 * [파이썬 비동기 IO](https://it-eldorado.tistory.com/159)
-
+* [파이썬 프로파일러](https://jh-bk.tistory.com/18)
 
 ## 타입스크립트 ##
 
