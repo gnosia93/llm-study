@@ -8,21 +8,19 @@
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
   - https://unzip.dev/0x014-vector-databases/
   - [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
-     
-* https://a16z.com/emerging-architectures-for-llm-applications/
 
-* [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
-
-* [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-
+### 기타 ###     
+ * https://a16z.com/emerging-architectures-for-llm-applications/
+ * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
+ * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+ * [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
+   
 ### [RAG 란?](https://tilnote.io/pages/64d2db8aa3d7fc4d28c28d3c) ###
 
   * https://velog.io/@tobigs-nlp/Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks
   * https://blog.softly.ai/llm-based-on-our-business/
   * https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1  
   * [Augmenting Large Language Models with Verified Information Sources: Leveraging AWS SageMaker and OpenSearch for Knowledge-Driven Question Answering](https://medium.com/@shankar.arunp/augmenting-large-language-models-with-verified-information-sources-leveraging-aws-sagemaker-and-f6be17fb10a8)
-
-* [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
 
 ### [양자화](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC) ###
   - https://gaussian37.github.io/dl-concept-quantization/
