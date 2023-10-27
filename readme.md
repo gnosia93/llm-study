@@ -65,13 +65,9 @@
 * [챗모듈](https://teddylee777.github.io/langchain/langchain-tutorial-03/)
 * [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
   - https://python.langchain.com/docs/get_started/introduction
-  
   * #4. [Building a Document-based Question Answering System with LangChain using LLM model](https://medium.com/@nageshmashette32/building-a-document-based-question-answering-system-with-langchain-using-llm-model-fb22e47a965c)
-  
   * #3. [LangChain이란? LangChain으로 강력한 LLM 서비스 구축하기](https://hipster4020.tistory.com/189)
-  
   * #2. [WebResearchRetriever을 활용하여 RAG (Retrieval Augmented Generation) 구현하기](https://littlefoxdiary.tistory.com/116)
-  
   * #1. [LangChain이란? | 파이썬으로 LangChain 시작하기](https://littlefoxdiary.tistory.com/114)
 
 
