@@ -42,6 +42,7 @@
   * [2020 캐글러닝데이 - mlflow로 간단한 MLOps 구축하기](https://www.youtube.com/watch?v=OB9vbJr8XdQ)
   * [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
   * [카카오뱅크의 MLOps / if(kakao)dev2022](https://www.youtube.com/watch?v=Fj0MOkzCECA)
+  * [MLOps on Databricks: A How-To Guide](https://www.youtube.com/watch?v=JApPzAnbfPI)
 
 
 ### 분산학습 ###
