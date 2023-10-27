@@ -3,6 +3,8 @@
 ### 임베딩 ###
   * [임베딩이란](https://today-gaze-697915.framer.app/ko/blog/what-is-embedding-and-how-to-use?fbclid=IwAR0_nBjBHq3I96SmbqN0mVLj_rnlbo-YaY6N3kN3yIz8e1DzUuYl6TmDBkw)
   * [워드 임베딩의 한계 / 문장 임베딩 / Bidirectional Model / Attention / BERT (김도형 연구원)](https://www.youtube.com/watch?v=F10Ii6x2y3Q)
+  * [BERT 자세히 들여다보기 / Hugging Face / Tensorboard / Pytorch Lightening / BERT를 사용하여 환경 데이터 분류하기 (김도형 연구원)
+](https://www.youtube.com/watch?v=wRMOO9uc6do)
 
 ### [벡터 데이터베이스](https://velog.io/@tura/vector-databases) ###
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
