@@ -141,6 +141,7 @@
 * [.join() 함수](https://blockdmask.tistory.com/468)
 * [파이썬 비동기 IO](https://it-eldorado.tistory.com/159)
 * [파이썬 프로파일러](https://jh-bk.tistory.com/18)
+* [클래스 Functional API 작성 - __call__](https://stackoverflow.com/questions/63630854/how-to-write-your-own-functional-api-like-in-keras)
 
 ## 타입스크립트 ##
 
