@@ -160,11 +160,6 @@
 * [Bedrock 봇?](https://github.com/seungwon2/Bedrock-emotional-cs-bot)
 
 
-## MLOps ##
-
-* https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/
-* [MLOps란?](https://velog.io/@whattsup_kim/MLOps%EB%9E%80)
-
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
