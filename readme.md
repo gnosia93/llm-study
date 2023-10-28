@@ -46,6 +46,11 @@
   * [딥러닝 분산학습](https://lifeisenjoyable.tistory.com/21)
 
 
+### MLPerf ###
+
+  * https://github.com/mlcommons/inference
+
+
 ## LLM ##
  * https://a16z.com/emerging-architectures-for-llm-applications/
  * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
