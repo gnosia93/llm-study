@@ -19,7 +19,7 @@
   * https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1  
   * [Augmenting Large Language Models with Verified Information Sources: Leveraging AWS SageMaker and OpenSearch for Knowledge-Driven Question Answering](https://medium.com/@shankar.arunp/augmenting-large-language-models-with-verified-information-sources-leveraging-aws-sagemaker-and-f6be17fb10a8)
 
-### [양자화](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC) ###
+### Quantization ###
   - [딥러닝 Quantization(양자화) 정리](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC)
   - [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 
