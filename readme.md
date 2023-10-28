@@ -11,12 +11,6 @@
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
   - https://unzip.dev/0x014-vector-databases/
   - [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
-
-### LLM ###     
- * https://a16z.com/emerging-architectures-for-llm-applications/
- * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
- * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
- * [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
    
 ### [RAG 란?](https://tilnote.io/pages/64d2db8aa3d7fc4d28c28d3c) ###
 
@@ -53,7 +47,14 @@
 
   * [딥러닝 분산학습](https://lifeisenjoyable.tistory.com/21)
 
+## LLM ##
 
+* https://a16z.com/emerging-architectures-for-llm-applications/
+* [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+* [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
+* [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
+
+* [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
 
 
 ## 통계학 ##
