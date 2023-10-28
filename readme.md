@@ -12,7 +12,7 @@
   - https://unzip.dev/0x014-vector-databases/
   - [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
 
-### 기타 ###     
+### LLM ###     
  * https://a16z.com/emerging-architectures-for-llm-applications/
  * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
  * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
