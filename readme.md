@@ -53,8 +53,8 @@
  * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
  * [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
  * [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
- 
  * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
+ * https://ggml.ai/
 
 
 ## 통계학 ##
