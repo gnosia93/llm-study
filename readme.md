@@ -47,10 +47,14 @@
   * [카카오페이 MLOps 적용기 (feat. AWS) / if(kakao)2022](https://www.youtube.com/watch?v=5FvTXzDLPxI)
   * [Validation Techniques-ML](https://trsekhar123.medium.com/validation-techniques-ml-a984fa98cbd6)
   * [Various ways to evaluate a machine learning model’s performance](https://towardsdatascience.com/various-ways-to-evaluate-a-machine-learning-models-performance-230449055f15)
-
+  * [피처스토어](https://medium.com/data-for-ai/what-is-a-feature-store-for-ml-29b62580af5d)
+    
 ### 분산학습 ###
 
   * [딥러닝 분산학습](https://lifeisenjoyable.tistory.com/21)
+
+
+
 
 ## 통계학 ##
 
