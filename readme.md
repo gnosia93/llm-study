@@ -49,12 +49,12 @@
 
 ## LLM ##
 
-* https://a16z.com/emerging-architectures-for-llm-applications/
-* [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-* [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
-* [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
-
-* [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
+ * https://a16z.com/emerging-architectures-for-llm-applications/
+ * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+ * [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
+ * [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
+ 
+ * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
 
 
 ## 통계학 ##
@@ -91,17 +91,13 @@
   * https://github.com/microsoft/LoRA
   * https://github.com/huggingface/peft 
 
-## AWS / SageMaker ##
+## AWS / SageMaker / Huggingface ##
 
 * https://huggingface.co/blog/sagemaker-huggingface-llm
 * [Deep Learning Container Images](https://github.com/aws/deep-learning-containers/blob/master/available_images.md#huggingface-text-generation-inference-containers)
 * [Fundamentals of combining LangChain and Amazon SageMaker (with Llama 2 Example)](https://medium.com/@ryanlempka/fundamentals-of-combining-langchain-and-sagemaker-with-a-llama-2-example-694924ab0d92)
 * https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/
 * https://github.com/aws-samples/aws-genai-llm-chatbot/#deployment-dependencies-installation
-
-  
-## Huggingface ##
-
 * https://huggingface.co/blog/getting-started-with-embeddings
 * [Huggingface 허깅페이스 파헤치기](https://hipster4020.tistory.com/172)
 * [Huggingface 허깅페이스 - NLP](https://hipster4020.tistory.com/176)
