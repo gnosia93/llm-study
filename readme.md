@@ -22,6 +22,7 @@
 ### Quantization ###
   - [딥러닝 Quantization(양자화) 정리](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC)
   - [Mixed Precision - BF16의 특징과 장단점](https://thecho7.tistory.com/entry/Mixed-Precision-BF16%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
+  - [딥러닝모델에서의 양자화 - 정태희 박사(AMD)](https://www.youtube.com/watch?v=91_hhex0CmU)
   - [Quantize 🤗 Transformers models](https://huggingface.co/docs/transformers/main/en/main_classes/quantization)
     
 ### Transformer ###
