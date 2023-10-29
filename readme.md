@@ -26,8 +26,8 @@
   - [딥러닝모델에서의 양자화 - 정태희 박사(AMD)](https://www.youtube.com/watch?v=91_hhex0CmU)
   - [Quantize 🤗 Transformers models](https://huggingface.co/docs/transformers/main/en/main_classes/quantization)
   - [Understanding 4bit Quantization: QLoRA explained (w/ Colab)](https://www.youtube.com/watch?v=TPcXVJ1VSRI)
-  - [PEFT LoRA Explained in Detail - Fine-Tune your LLM on your local GPU](https://www.youtube.com/watch?v=YVU5wAA6Txo)
-
+  - [PEFT LoRA Explained in Detail - Fine-Tune your LLM on your local GPU](https://www.youtube.com/watch?v=YVU5wAA6Txo)   <---
+  - [Boost Fine-Tuning Performance of LLM: Optimal Architecture w/ PEFT LoRA Adapter-Tuning on Your GPU](https://www.youtube.com/watch?v=A-a-l_sFtYM)
 
       
 ### Transformer ###
