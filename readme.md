@@ -159,7 +159,7 @@
 * https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/
   
 ## 참고 사이트 ##
-
+* https://www.youtube.com/@ShawhinTalebi/featured
 * https://www.youtube.com/@practical-ai
 * 인공지능 개발자 모임 - http://aidev.co.kr/
 * https://civitai.com/          --- loRA + stable defussion + GPU 8G 이상. 
