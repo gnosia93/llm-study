@@ -12,11 +12,9 @@
 ### RAG ###
 
   * https://velog.io/@tobigs-nlp/Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks
-  * https://blog.softly.ai/llm-based-on-our-business/
   * https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1  
   * [Augmenting Large Language Models with Verified Information Sources: Leveraging AWS SageMaker and OpenSearch for Knowledge-Driven Question Answering](https://medium.com/@shankar.arunp/augmenting-large-language-models-with-verified-information-sources-leveraging-aws-sagemaker-and-f6be17fb10a8)
 
-#### Vector DB ####
   - [Vector Database (feat. Pinecone)](https://velog.io/@tura/vector-databases) 
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
   - https://unzip.dev/0x014-vector-databases/
