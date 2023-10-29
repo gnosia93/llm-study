@@ -140,6 +140,7 @@
 
 * https://ncsoft.github.io/ncresearch/3147b0357afb32f7da8b67f2f76d6d626813f38b
 * https://devocean.sk.com/blog/techBoardDetail.do?ID=164659
+* [GPU 서버](https://www.youtube.com/watch?v=Jd0VLyf5pS8)
 
 
 
@@ -161,9 +162,9 @@
 * https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/
   
 ## 참고 사이트 ##
+* https://www.youtube.com/@code4AI/featured   <--- 가장 좋은 듯...
 * https://www.youtube.com/@ShawhinTalebi/featured
 * https://www.youtube.com/@practical-ai
 * 인공지능 개발자 모임 - http://aidev.co.kr/
 * https://civitai.com/          --- loRA + stable defussion + GPU 8G 이상. 
 * 인공지능 팩토리 - https://www.youtube.com/@aifactoryspace
-* [GPU 서버](https://www.youtube.com/watch?v=Jd0VLyf5pS8)
