@@ -12,7 +12,7 @@
   - https://unzip.dev/0x014-vector-databases/
   - [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
    
-### [RAG 란?](https://tilnote.io/pages/64d2db8aa3d7fc4d28c28d3c) ###
+### RAG ###
 
   * https://velog.io/@tobigs-nlp/Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks
   * https://blog.softly.ai/llm-based-on-our-business/
