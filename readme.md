@@ -94,6 +94,10 @@
   * https://github.com/microsoft/LoRA
   * https://github.com/huggingface/peft 
 
+* LudWig
+  * [Efficient Fine-Tuning for Llama-v2-7b on a Single GPU](https://www.youtube.com/watch?v=g68qlo9Izf0)
+  * https://github.com/ludwig-ai/ludwig/tree/master 
+
 ## AWS / SageMaker / Huggingface ##
 
 * https://huggingface.co/blog/sagemaker-huggingface-llm
