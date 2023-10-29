@@ -133,6 +133,11 @@
 * [Bedrock 봇?](https://github.com/seungwon2/Bedrock-emotional-cs-bot)
 
 
+## 기타 ##
+
+* https://devocean.sk.com/blog/techBoardDetail.do?ID=164659
+
+
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
