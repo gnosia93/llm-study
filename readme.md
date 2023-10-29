@@ -135,6 +135,7 @@
 
 ## 기타 ##
 
+* https://ncsoft.github.io/ncresearch/3147b0357afb32f7da8b67f2f76d6d626813f38b
 * https://devocean.sk.com/blog/techBoardDetail.do?ID=164659
 
 
