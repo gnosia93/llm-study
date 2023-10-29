@@ -53,6 +53,12 @@
   * https://github.com/mlcommons/inference
 
 
+### 통계학 ###
+
+* [이산확률분포](https://m.blog.naver.com/algosn/221288016739)
+
+
+
 ## LLM ##
  * https://a16z.com/emerging-architectures-for-llm-applications/
  * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
@@ -60,12 +66,6 @@
  * [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
  * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
  * https://ggml.ai/
-
-
-## 통계학 ##
-
-* [이산확률분포](https://m.blog.naver.com/algosn/221288016739)
-
 
 ## LangChain ###
 
