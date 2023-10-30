@@ -28,7 +28,7 @@
   - [Understanding 4bit Quantization: QLoRA explained (w/ Colab)](https://www.youtube.com/watch?v=TPcXVJ1VSRI)
   - [PEFT LoRA Explained in Detail - Fine-Tune your LLM on your local GPU](https://www.youtube.com/watch?v=YVU5wAA6Txo)   <---
   - [Boost Fine-Tuning Performance of LLM: Optimal Architecture w/ PEFT LoRA Adapter-Tuning on Your GPU](https://www.youtube.com/watch?v=A-a-l_sFtYM)
-
+  - https://docs.adapterhub.ml/
       
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
