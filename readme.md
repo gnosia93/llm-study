@@ -163,6 +163,7 @@
   
 ## 참고 사이트 ##
 * https://www.youtube.com/@code4AI/featured   <--- 가장 좋은 듯...
+* https://www.youtube.com/@samwitteveenai
 * https://www.youtube.com/@ShawhinTalebi/featured
 * https://www.youtube.com/@practical-ai
 * 인공지능 개발자 모임 - http://aidev.co.kr/
