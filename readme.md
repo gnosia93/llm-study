@@ -30,6 +30,7 @@
   - [Boost Fine-Tuning Performance of LLM: Optimal Architecture w/ PEFT LoRA Adapter-Tuning on Your GPU](https://www.youtube.com/watch?v=A-a-l_sFtYM)
   - https://docs.adapterhub.ml/
   - Microsoft DeepSpeed introduction at KAUST - https://www.youtube.com/watch?v=wbG2ZEDPIyw
+  - PyTorch 양자화 심층 분석 - Chris Gottbrath - https://www.youtube.com/watch?v=c3MT2qV5f9w
 
       
 ### Transformer ###
