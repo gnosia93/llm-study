@@ -7,6 +7,12 @@ conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 -c pytorch
 
 * 튜토리얼 - https://tutorials.pytorch.kr/beginner/introyt/modelsyt_tutorial.html
 
+## .. ##
+
+* [nn.Linear](https://thecho7.tistory.com/entry/PyTorch-nnLinear%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%88%EB%AC%B8)
+
+
+
 ## Pytorch ##
 
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
