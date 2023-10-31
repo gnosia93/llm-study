@@ -23,3 +23,5 @@ conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 -c pytorch
 * 파이토치 튜토리얼
   - [Windows 11 딥러닝 환경구축](https://mz-moonzoo.tistory.com/2)
   - [신경망 모델 정의하기 -- Class, nn.Module](https://anweh.tistory.com/21)
+
+* [tensor 보드 튜토리얼](https://tutorials.pytorch.kr/beginner/introyt/tensorboardyt_tutorial.html)
