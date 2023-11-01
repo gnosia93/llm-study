@@ -8,7 +8,7 @@ conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 -c pytorch
 
 * [Deep Learning 60Min Tutorial](https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html)
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
-
+* [파이토치 딥러닝 입문](https://wikidocs.net/book/2788)
 
 ## API 레퍼런스 ##
 
