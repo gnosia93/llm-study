@@ -16,7 +16,7 @@
 
 # Utils ##
 
-* [Python TQDM](https://zephyrus1111.tistory.com/305)
+* [Python tqdm](https://zephyrus1111.tistory.com/305)
 
     
 ## 타입스크립트 ##
