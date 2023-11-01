@@ -17,7 +17,7 @@
 # Utils ##
 
 * [Python tqdm](https://zephyrus1111.tistory.com/305)
-
+* [Read a CSV File Into a List of Lists](https://learnpython.com/blog/read-csv-into-list-python/)
     
 ## 타입스크립트 ##
 
