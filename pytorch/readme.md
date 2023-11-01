@@ -10,6 +10,8 @@ conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 -c pytorch
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
 * [파이토치 딥러닝 입문](https://wikidocs.net/book/2788)
 
+* Normalization - 모델이 수렴하고 일반화되게 한다.
+  
 ## API 레퍼런스 ##
 
 * [[PyTorch] squeeze, unsqueeze함수: 차원 삭제와 차원 삽입](https://sanghyu.tistory.com/86)
