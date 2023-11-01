@@ -5,7 +5,7 @@ Today, PyTorch supports the following backends for running quantized operators e
 * (early prototype) support for NVidia GPU via TensorRT through fx2trt (to be open sourced)
 
 ## 샘플 코드 ##
-Colab 및 맥북 M1 에서 실행된다. 맥
+아래의 코드는 Colab(X64 환경) 또는 맥북 M1(ARM) 에서 실행할 수 있다. ARM 아키텍처에서 실행하는 경우 Quantization 백엔드 엔진을 qnnpack 로 교체해야 한다. (아래 샘플 참조)
 ```
 import torch
 import torch.nn as nn
@@ -45,6 +45,7 @@ input_fp32 = torch.randn(4, 4, 4, 4)
 res = model_int8(input_fp32)
 ```
 
+* 
 
 ## 레퍼런스 ##
 
