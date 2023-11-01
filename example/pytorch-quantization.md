@@ -2,6 +2,7 @@
 Today, PyTorch supports the following backends for running quantized operators efficiently:
 * x86 CPUs with AVX2 support or higher (without AVX2 some operations have inefficient implementations), via x86 optimized by fbgemm and onednn (see the details at RFC)
 * ARM CPUs (typically found in mobile/embedded devices), via qnnpack
+  - https://blog.tensorflow.org/2021/09/faster-quantized-inference-with-xnnpack.html
 * (early prototype) support for NVidia GPU via TensorRT through fx2trt (to be open sourced)
 
 ## 샘플 코드 ##
