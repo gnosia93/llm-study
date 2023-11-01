@@ -10,7 +10,9 @@ conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 -c pytorch
 * https://tutorials.pytorch.kr/beginner/basics/intro.html
 * [파이토치 딥러닝 입문](https://wikidocs.net/book/2788)
 
-* Normalization - 모델이 수렴하고 일반화되게 한다.
+* Normalization - 모델이 수렴하고 일반화되게 한다. (L1/L2)
+* DropOut - 훈련을 반복할때 마다 신경망의 뉴런의 출력을 랜덤하게 0 으로 만드는 작업으로, 매 훈련마다 조금씩 다른 뉴런의 토플로지가 만들어지기 때문에 신경망이 각 입력 샘플을 암기하려는 기회를 줄여서 과적합을 방지한다.
+* Batch Normalization - 
   
 ## API 레퍼런스 ##
 
