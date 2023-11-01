@@ -23,6 +23,7 @@ class M(nn.Module):
 model_fp32 = M()
 model_fp32
 ```
+[실행결과]
 ```
 M(
   (fc): Linear(in_features=4, out_features=4, bias=True)
@@ -38,13 +39,13 @@ model_int8 = quantization.quantize_dynamic(
 )
 model_int8
 ```
+[실행결과]
 ```
 M(
   (fc): DynamicQuantizedLinear(in_features=4, out_features=4, dtype=torch.qint8, qscheme=torch.per_tensor_affine)
 )
 ```
 ```
-input_fp32 = torch.randn(4, 4, 4, 4)
 input_fp32 = torch.randn(4, 4, 4, 4)
 res = model_int8(input_fp32)
 ```
