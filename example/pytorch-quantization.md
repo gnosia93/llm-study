@@ -4,6 +4,46 @@ Today, PyTorch supports the following backends for running quantized operators e
 * ARM CPUs (typically found in mobile/embedded devices), via qnnpack
 * (early prototype) support for NVidia GPU via TensorRT through fx2trt (to be open sourced)
 
+## 샘플 코드 ##
+Colab 및 맥북 M1 에서 실행된다. 맥
+```
+import torch
+import torch.nn as nn
+import torch.ao.quantization as quantization
+
+class M(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.fc = nn.Linear(4, 4)
+    
+    def forward(self, x):
+        x = self.fc(x)
+        return x
+
+model_fp32 = M()
+model_fp32
+```
+M(
+  (fc): Linear(in_features=4, out_features=4, bias=True)
+)
+```
+torch.backends.quantized.engine = 'qnnpack'   <--- 맥북에서 실행하는 경우에만 실행
+
+model_int8 = quantization.quantize_dynamic(
+    model_fp32, 
+    {torch.nn.Linear},
+    dtype=torch.qint8
+)
+model_int8
+```
+M(
+  (fc): DynamicQuantizedLinear(in_features=4, out_features=4, dtype=torch.qint8, qscheme=torch.per_tensor_affine)
+)
+```
+input_fp32 = torch.randn(4, 4, 4, 4)
+input_fp32 = torch.randn(4, 4, 4, 4)
+res = model_int8(input_fp32)
+```
 
 
 ## 레퍼런스 ##
