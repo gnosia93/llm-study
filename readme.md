@@ -149,6 +149,10 @@
 * [GPU 서버](https://www.youtube.com/watch?v=Jd0VLyf5pS8)
 
 
+## 세미나 ##
+
+* https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq
+
 
   
 ## 참고 사이트 ##
