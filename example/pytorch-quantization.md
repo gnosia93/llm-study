@@ -45,9 +45,10 @@ input_fp32 = torch.randn(4, 4, 4, 4)
 res = model_int8(input_fp32)
 ```
 
-## (experimental) Dynamic Quantization on BERT.ipynb ##
+## Dynamic Quantization on BERT ##
 
 * https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/dynamic_quantization_bert_tutorial.ipynb#scrollTo=9sTUmFJfIgN-
+
 
 ## 레퍼런스 ##
 
