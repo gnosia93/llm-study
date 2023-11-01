@@ -62,3 +62,4 @@ res = model_int8(input_fp32)
 * https://github.com/aws-samples/aws-sagemaker-intel-quantization/tree/main
 * https://github.com/pytorch/QNNPACK
 * https://tutorials.pytorch.kr/intermediate/realtime_rpi.html
+* https://stackoverflow.com/questions/55754938/what-does-1e-mean
