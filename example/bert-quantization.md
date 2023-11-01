@@ -1,5 +1,5 @@
 ### 원본 노트북 ###
-* https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/dynamic_quantization_bert_tutorial.ipynb#scrollTo=9sTUmFJfIgN-
+* https://colab.research.google.com/drive/1Dtn1nYY3kyiJS9Macth_CNJU4x1d3nkM#scrollTo=DrnCAcuKsQME
 
 ### 맥용 ###
 맥북에서 동작하도록 Quantization Backend 을 QNN 으로 설정하고, 불필요한 코드를 삭제함.
