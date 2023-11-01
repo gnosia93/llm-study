@@ -161,7 +161,8 @@
 * [파이썬 프로파일러](https://jh-bk.tistory.com/18)
 * [클래스 Functional API 작성 - __call__](https://stackoverflow.com/questions/63630854/how-to-write-your-own-functional-api-like-in-keras)
 * [enuemerate() 함수](https://www.daleseo.com/python-enumerate/)
-  
+* [파이썬 asterisk 이해하기](https://mingrammer.com/understanding-the-asterisk-of-python/)
+    
 ## 타입스크립트 ##
 
 * [타입스크립트 핸드북](https://joshua1988.github.io/ts/guide/interfaces.html#%EC%9D%BD%EA%B8%B0-%EC%A0%84%EC%9A%A9-%EB%B0%B0%EC%97%B4)
