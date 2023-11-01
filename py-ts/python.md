@@ -18,9 +18,7 @@
 
 * [Python tqdm](https://zephyrus1111.tistory.com/305)
 * [Read a CSV File Into a List of Lists](https://learnpython.com/blog/read-csv-into-list-python/)
-    
-## 타입스크립트 ##
+* [Zip 함수](https://www.daleseo.com/python-zip/)
 
-* [타입스크립트 핸드북](https://joshua1988.github.io/ts/guide/interfaces.html#%EC%9D%BD%EA%B8%B0-%EC%A0%84%EC%9A%A9-%EB%B0%B0%EC%97%B4)
-* [VSCode 타입스크립트 개발](https://mine-it-record.tistory.com/578)
-* https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/
+    
+
