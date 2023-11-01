@@ -1,6 +1,8 @@
+### 원본 노트북 ###
 * https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/dynamic_quantization_bert_tutorial.ipynb#scrollTo=9sTUmFJfIgN-
 
-맥북에서 동작하도록 Quantization Backend 을 QNN 을 설정함.
+### 맥용 ###
+맥북에서 동작하도록 Quantization Backend 을 QNN 을 설정하고, 일부 코드를 수정함.
 ```
 from __future__ import absolute_import, division, print_function
 
