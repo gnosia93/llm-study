@@ -13,6 +13,11 @@
 * [파이썬 asterisk 이해하기](https://mingrammer.com/understanding-the-asterisk-of-python/)
 * [왕초보를 위한 Python: 쉽게 풀어 쓴 기초 문법과 실습](https://wikidocs.net/book/2)
 
+
+# Utils ##
+
+* [Python TQDM](https://zephyrus1111.tistory.com/305)
+
     
 ## 타입스크립트 ##
 
