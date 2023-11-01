@@ -12,3 +12,4 @@ Today, PyTorch supports the following backends for running quantized operators e
 * https://blog.ggaman.com/1028
 * https://github.com/aws-samples/aws-sagemaker-intel-quantization/tree/main
 * https://github.com/pytorch/QNNPACK
+* https://tutorials.pytorch.kr/intermediate/realtime_rpi.html
