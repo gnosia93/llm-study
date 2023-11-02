@@ -157,8 +157,8 @@
 * [GPU 서버](https://www.youtube.com/watch?v=Jd0VLyf5pS8)
 
 
-## 세미나 ##
-
+## 코드리뷰 ##
+* [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
 * https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq
 
 
