@@ -32,7 +32,8 @@
   - Microsoft DeepSpeed introduction at KAUST - https://www.youtube.com/watch?v=wbG2ZEDPIyw
   - PyTorch 양자화 심층 분석 - Chris Gottbrath - https://www.youtube.com/watch?v=c3MT2qV5f9w
   - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
-      
+  - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
+    
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
   * [[챗GPT 러닝데이] Transformer 모델 개요와 GPT3 모델 활용 실습](https://www.youtube.com/watch?v=uzcRCmg9hlc)
