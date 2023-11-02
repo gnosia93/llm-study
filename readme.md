@@ -36,7 +36,7 @@
 
 ### Fine Tunning Guide ###
   - https://www.udemy.com/course/llm-part-1-llama-2-fine-tuning/
-  - [Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for ...](https://www.google.com/search?q=llm+fine+tunning&rlz=1C5GCEM_enKR1026KR1026&oq=LLM+fine&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQk3MTU1ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7393269a,vid:MDA3LUKNl1E,st:0]
+  - [Fine-tuning Llama 2 on Your Own Dataset](https://www.google.com/search?q=llm+fine+tunning&rlz=1C5GCEM_enKR1026KR1026&oq=LLM+fine&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQk3MTU1ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7393269a,vid:MDA3LUKNl1E,st:0)
     
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
