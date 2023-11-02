@@ -1,10 +1,13 @@
 
+## Quantization Backend ##
+
 Today, PyTorch supports the following backends for running quantized operators efficiently:
 * x86 CPUs with AVX2 support or higher (without AVX2 some operations have inefficient implementations), via x86 optimized by fbgemm and onednn (see the details at RFC)
 * ARM CPUs (typically found in mobile/embedded devices), via qnnpack
   - https://blog.tensorflow.org/2021/09/faster-quantized-inference-with-xnnpack.html
 * (early prototype) support for NVidia GPU via TensorRT through fx2trt (to be open sourced)
-
+  - https://blog.kubwa.co.kr/inference-tensorrt-c1a97404eb0c
+    
 ## 샘플 코드 ##
 아래의 코드는 Colab(X64 환경) 또는 맥북 M1(ARM) 에서 실행할 수 있다. ARM 아키텍처에서 실행하는 경우 Quantization 백엔드 엔진을 qnnpack 로 교체해야 한다. (아래 샘플 참조)
 ```
