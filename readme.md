@@ -19,6 +19,7 @@
   - https://devocean.sk.com/blog/techBoardDetail.do?ID=164964&boardType=techBlog
   - https://unzip.dev/0x014-vector-databases/
   - [PgVector 사용법](https://www.timescale.com/blog/postgresql-as-a-vector-database-create-store-and-query-openai-embeddings-with-pgvector/)
+  - [Augmented Language Models (LLM Bootcamp)](https://www.youtube.com/watch?v=YdeuQhlHmCA)
 
 ### Quantization / PEFT ###
   - [딥러닝 Quantization(양자화) 정리](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC)
