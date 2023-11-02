@@ -162,5 +162,5 @@
 * https://www.youtube.com/@ShawhinTalebi/featured
 * https://www.youtube.com/@practical-ai
 * 인공지능 개발자 모임 - http://aidev.co.kr/
-* https://civitai.com/          --- loRA + stable defussion + GPU 8G 이상. 
+* https://civitai.com/          --- LoRA + stable difussion + GPU 8G 이상. 
 * 인공지능 팩토리 - https://www.youtube.com/@aifactoryspace
