@@ -165,6 +165,7 @@
   
 ## 참고 사이트 ##
 * https://www.youtube.com/@code4AI/featured   <--- 가장 좋은 듯...
+* 한국인공지능 아카데미 - https://www.youtube.com/watch?v=vziygFrRlZ4
 * https://www.youtube.com/@samwitteveenai
 * https://www.youtube.com/@ShawhinTalebi/featured
 * https://www.youtube.com/@practical-ai
