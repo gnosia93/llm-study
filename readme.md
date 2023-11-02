@@ -157,9 +157,9 @@
 * [GPU 서버](https://www.youtube.com/watch?v=Jd0VLyf5pS8)
 
 
-## 코드리뷰 ##
+## 코드리뷰 / 세미나 ##
 * [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
-* https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq
+* [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq)
 
 
   
