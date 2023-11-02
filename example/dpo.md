@@ -3,6 +3,6 @@
   https://www.youtube.com/watch?v=aI8cyr-gH6M
 
 
-* Direct Preference Optimization: Forget RLHF (PPO)
+* Direct Preference Optimization: Forget RLHF (DPO)
 
   https://www.youtube.com/watch?v=pzh2oc6shic
