@@ -33,6 +33,10 @@
   - PyTorch 양자화 심층 분석 - Chris Gottbrath - https://www.youtube.com/watch?v=c3MT2qV5f9w
   - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
   - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
+
+### Fine Tunning Guide ###
+  - https://www.udemy.com/course/llm-part-1-llama-2-fine-tuning/
+
     
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
