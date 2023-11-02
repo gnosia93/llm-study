@@ -73,7 +73,8 @@
   ....
     ....
 
-
+  * [C++ 병렬처리](https://m.blog.naver.com/PostView.naver?blogId=enter_maintanance&logNo=221830860742&categoryNo=17&proxyReferer=)
+    
 ### MLPerf ###
 
   * https://github.com/mlcommons/inference
