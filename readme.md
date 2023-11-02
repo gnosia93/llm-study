@@ -31,8 +31,7 @@
   - https://docs.adapterhub.ml/
   - Microsoft DeepSpeed introduction at KAUST - https://www.youtube.com/watch?v=wbG2ZEDPIyw
   - PyTorch 양자화 심층 분석 - Chris Gottbrath - https://www.youtube.com/watch?v=c3MT2qV5f9w
-  - [(베타) BERT 모델 동적 양자화하기](https://tutorials.pytorch.kr/intermediate/dynamic_quantization_bert_tutorial.html)
-
+  - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
       
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
