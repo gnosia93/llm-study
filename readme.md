@@ -33,14 +33,22 @@
   - Microsoft DeepSpeed introduction at KAUST - https://www.youtube.com/watch?v=wbG2ZEDPIyw
   - PyTorch 양자화 심층 분석 - Chris Gottbrath - https://www.youtube.com/watch?v=c3MT2qV5f9w
   - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
-  - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
+  - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration) 
+  * LoRA
+    * [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://www.youtube.com/watch?v=BJqwmDpa0wM)
+    * [[챗GPT 러닝데이 | 챗GPT말고 LLM] LoRA로 빠르게 나만의 모델을 만들어보자 - 김용담](https://www.youtube.com/watch?v=66GD0Bj5Whk)
+    * https://github.com/microsoft/LoRA
+    * https://github.com/huggingface/peft 
+  * LudWig
+    * [Efficient Fine-Tuning for Llama-v2-7b on a Single GPU](https://www.youtube.com/watch?v=g68qlo9Izf0)
+    * https://github.com/ludwig-ai/ludwig/tree/master 
 
 
- 
 ### Fine Tunning Guide ###
   - https://www.udemy.com/course/llm-part-1-llama-2-fine-tuning/
   - [Fine-tuning Llama 2 on Your Own Dataset](https://www.google.com/search?q=llm+fine+tunning&rlz=1C5GCEM_enKR1026KR1026&oq=LLM+fine&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQk3MTU1ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7393269a,vid:MDA3LUKNl1E,st:0)
   - [Q: How to create an Instruction Dataset for Fine-tuning my LLM?](https://www.youtube.com/watch?v=BJQrQT2Xfyo)
+
       
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
@@ -100,22 +108,6 @@
   * #2. [WebResearchRetriever을 활용하여 RAG (Retrieval Augmented Generation) 구현하기](https://littlefoxdiary.tistory.com/116)
   * #1. [LangChain이란? | 파이썬으로 LangChain 시작하기](https://littlefoxdiary.tistory.com/114)
 
-
-## Fine Tunning ##
-
-* [허깅페이스와 LoRA를 사용하여 단일 Amazon SageMaker GPU에서 대규모 언어 모델(LLM) 훈련하기](https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/)
-* [Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library](https://aws.amazon.com/ko/blogs/machine-learning/fine-tune-gpt-j-using-an-amazon-sagemaker-hugging-face-estimator-and-the-model-parallel-library/)
-* [OpenAI 파인튜닝](https://lsjsj92.tistory.com/656)
-* [Fine-tuning Large Language Models (LLMs) | w/ Example Code](https://www.youtube.com/watch?v=eC6Hd1hFvos)
-* LoRA
-  * [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://www.youtube.com/watch?v=BJqwmDpa0wM)
-  * [[챗GPT 러닝데이 | 챗GPT말고 LLM] LoRA로 빠르게 나만의 모델을 만들어보자 - 김용담](https://www.youtube.com/watch?v=66GD0Bj5Whk)
-  * https://github.com/microsoft/LoRA
-  * https://github.com/huggingface/peft 
-
-* LudWig
-  * [Efficient Fine-Tuning for Llama-v2-7b on a Single GPU](https://www.youtube.com/watch?v=g68qlo9Izf0)
-  * https://github.com/ludwig-ai/ludwig/tree/master 
 
 ## AWS / SageMaker / Huggingface ##
 
