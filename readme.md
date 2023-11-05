@@ -104,7 +104,7 @@
 
 
 
-## AWS / SageMaker / Huggingface ##
+## SageMaker / Huggingface ##
 
 * https://huggingface.co/blog/sagemaker-huggingface-llm
 * [Deep Learning Container Images](https://github.com/aws/deep-learning-containers/blob/master/available_images.md#huggingface-text-generation-inference-containers)
@@ -131,8 +131,6 @@
 
 ## 코드 분석 ##
 
-
-
 * [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
 * [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq)
 
@@ -140,7 +138,8 @@
 * [Meta AI에서 개발한 ChatGPT의 대항마, LLaMA](https://devocean.sk.com/blog/techBoardDetail.do?ID=164601)
 * [ChatGPT, LLaMA 그리고 이젠 Alpaca?](https://devocean.sk.com/blog/techBoardDetail.do?ID=164659)
 * [거대언어 모델의 프롬프트 데이터](https://ncsoft.github.io/ncresearch/3147b0357afb32f7da8b67f2f76d6d626813f38b)
-  
+
+
 ## 참고 사이트 ##
 * https://www.youtube.com/@code4AI/featured   <--- 가장 좋은 듯...
 * 한국인공지능 아카데미 - https://www.youtube.com/watch?v=vziygFrRlZ4
