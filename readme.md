@@ -136,7 +136,8 @@
 * [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
 * [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq)
 
-## 블로그s ##
+## 블로그 s ##
+* [Meta AI에서 개발한 ChatGPT의 대항마, LLaMA](https://devocean.sk.com/blog/techBoardDetail.do?ID=164601)
 * [ChatGPT, LLaMA 그리고 이젠 Alpaca?](https://devocean.sk.com/blog/techBoardDetail.do?ID=164659)
 
   
