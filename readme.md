@@ -50,6 +50,16 @@
     * https://github.com/ludwig-ai/ludwig/tree/master 
 
 
+### LLM & LangChain ###
+
+* [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
+* [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
+* [langchain-how-to-create-custom-knowledge-chatbots](https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/)
+* https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
+
+
+
+
 ### MLOps ###
   * [2020 캐글러닝데이 - mlflow로 간단한 MLOps 구축하기](https://www.youtube.com/watch?v=OB9vbJr8XdQ)
   * [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
@@ -91,17 +101,6 @@
 * [스탠포드 알파카 Stanford Alpaca 코드분석 - 파인튜닝](https://www.youtube.com/watch?v=u2tQYgrLouo)
 #### KoAlpaca ####
 * [명령어를 이해하는 오픈소스 언어 모델 ‘KoAlpaca’ 개발기](https://www.youtube.com/watch?v=7HbugcCBXwE)
-
-
-## LLM & LangChain ##
-
-* [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
-* [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
-* [langchain-how-to-create-custom-knowledge-chatbots](https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/)
-* https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
-
-
-
 
 
 
