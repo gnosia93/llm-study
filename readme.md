@@ -1,12 +1,5 @@
 ## ML Fundamentals ##
 
-### 임베딩 ###
-  * [임베딩이란](https://today-gaze-697915.framer.app/ko/blog/what-is-embedding-and-how-to-use?fbclid=IwAR0_nBjBHq3I96SmbqN0mVLj_rnlbo-YaY6N3kN3yIz8e1DzUuYl6TmDBkw)
-  * [워드 임베딩의 한계 / 문장 임베딩 / Bidirectional Model / Attention / BERT (김도형 연구원)](https://www.youtube.com/watch?v=F10Ii6x2y3Q)
-  * [BERT 자세히 들여다보기 / Hugging Face / Tensorboard / Pytorch Lightening / BERT를 사용하여 환경 데이터 분류하기 (김도형 연구원)
-](https://www.youtube.com/watch?v=wRMOO9uc6do)
-  * https://github.com/SKTBrain/KoBERT
-
 ### NLP ###
 * [형태소 분석기 정리](https://hipster4020.tistory.com/184)
 * [Huggingface NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf)
@@ -14,6 +7,12 @@
 * [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
 * [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
+#### 임베딩 ####
+  * [임베딩이란](https://today-gaze-697915.framer.app/ko/blog/what-is-embedding-and-how-to-use?fbclid=IwAR0_nBjBHq3I96SmbqN0mVLj_rnlbo-YaY6N3kN3yIz8e1DzUuYl6TmDBkw)
+  * [워드 임베딩의 한계 / 문장 임베딩 / Bidirectional Model / Attention / BERT (김도형 연구원)](https://www.youtube.com/watch?v=F10Ii6x2y3Q)
+  * [BERT 자세히 들여다보기 / Hugging Face / Tensorboard / Pytorch Lightening / BERT를 사용하여 환경 데이터 분류하기 (김도형 연구원)
+](https://www.youtube.com/watch?v=wRMOO9uc6do)
+  * https://github.com/SKTBrain/KoBERT
 
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
