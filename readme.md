@@ -87,15 +87,15 @@
 * [명령어를 이해하는 오픈소스 언어 모델 ‘KoAlpaca’ 개발기](https://www.youtube.com/watch?v=7HbugcCBXwE)
 
 
-
-
-## 블로그 s ##
+## 블로그 / Youtube ##
 * [Meta AI에서 개발한 ChatGPT의 대항마, LLaMA](https://devocean.sk.com/blog/techBoardDetail.do?ID=164601)
 * [ChatGPT, LLaMA 그리고 이젠 Alpaca?](https://devocean.sk.com/blog/techBoardDetail.do?ID=164659)
 * [거대언어 모델의 프롬프트 데이터](https://ncsoft.github.io/ncresearch/3147b0357afb32f7da8b67f2f76d6d626813f38b)
 * [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq)
 * [😎경량화! 노트북에 구축하는 대규모 언어모델 GPT4All😎 (feat, ChatGPT, GPT3.5, LLaMA, Alpaca, Vicuna)](https://www.youtube.com/watch?v=HewtI35-lp8)
+* [[Paper Review] Democratizing Large Language Models : From 175B to 7B](https://www.youtube.com/watch?v=ORYQU0RYn_M)
 
+  
 ## 참고 사이트 ##
 * 한국인공지능 아카데미 - https://www.youtube.com/watch?v=vziygFrRlZ4
 * https://www.youtube.com/@code4AI/featured  
