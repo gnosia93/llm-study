@@ -55,10 +55,15 @@
 
 
 ### Fine Tunning ###
+![](https://github.com/gnosia93/llm-study/blob/main/vast-ai.png)
+
   - [Fine-tuning Llama 2 on Your Own Dataset](https://www.google.com/search?q=llm+fine+tunning&rlz=1C5GCEM_enKR1026KR1026&oq=LLM+fine&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQk3MTU1ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7393269a,vid:MDA3LUKNl1E,st:0)
   - [Q: How to create an Instruction Dataset for Fine-tuning my LLM?](https://www.youtube.com/watch?v=BJQrQT2Xfyo)
   - [모두를 위한 대규모 언어 모델 LLM Part 1 - Llama 2 Fine-Tuning 해보기](https://www.udemy.com/course/llm-part-1-llama-2-fine-tuning/)
       
+#### Alpaca - https://github.com/tatsu-lab/stanford_alpaca ####
+* [스탠포드 알파카 Stanford Alpaca 코드분석 - 학습데이터 생성(Self Instruct)](https://www.youtube.com/watch?v=dLo4QkEq-Hg)
+* [스탠포드 알파카 Stanford Alpaca 코드분석 - 파인튜닝](https://www.youtube.com/watch?v=u2tQYgrLouo)
 
 
 
@@ -124,11 +129,10 @@
 
 
 ## 코드 분석 ##
+
 * [ChatGPT보다 성능이 더 뛰어나다? _ 메타의 언어모델, LLaMA 라마 코드분석](https://www.youtube.com/watch?v=jvYpv9VJBOA)
 
-### Alpaca - https://github.com/tatsu-lab/stanford_alpaca ###
-* [스탠포드 알파카 Stanford Alpaca 코드분석 - 학습데이터 생성(Self Instruct)](https://www.youtube.com/watch?v=dLo4QkEq-Hg)
-* [스탠포드 알파카 Stanford Alpaca 코드분석 - 파인튜닝](https://www.youtube.com/watch?v=u2tQYgrLouo)
+
 * [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
 * [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq)
 
