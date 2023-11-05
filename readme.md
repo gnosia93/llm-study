@@ -6,7 +6,6 @@
 * [Huggingface NLP Course - Korean](https://wikidocs.net/book/8056)
 * [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
 * [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
-
 * [워드 임베딩의 한계 / 문장 임베딩 / Bidirectional Model / Attention / BERT (김도형 연구원)](https://www.youtube.com/watch?v=F10Ii6x2y3Q)
 * [BERT 자세히 들여다보기 / Hugging Face / Tensorboard / Pytorch Lightening / BERT를 사용하여 환경 데이터 분류하기 (김도형 연구원)
 ](https://www.youtube.com/watch?v=wRMOO9uc6do)
