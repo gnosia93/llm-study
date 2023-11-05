@@ -81,10 +81,6 @@
   * https://github.com/mlcommons/inference
 
 
-### 통계학 ###
-
-* [이산확률분포](https://m.blog.naver.com/algosn/221288016739)
-
 
 ## Fine Tunning ##
 ![](https://github.com/gnosia93/llm-study/blob/main/vast-ai.png)
