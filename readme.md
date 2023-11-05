@@ -6,7 +6,14 @@
   * [BERT 자세히 들여다보기 / Hugging Face / Tensorboard / Pytorch Lightening / BERT를 사용하여 환경 데이터 분류하기 (김도형 연구원)
 ](https://www.youtube.com/watch?v=wRMOO9uc6do)
   * https://github.com/SKTBrain/KoBERT
-    
+
+### NLP ###
+* [형태소 분석기 정리](https://hipster4020.tistory.com/184)
+* [Huggingface NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf)
+* [Huggingface NLP Course - Korean](https://wikidocs.net/book/8056)
+* [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
+* [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
 
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
@@ -103,14 +110,6 @@
 * [Huggingface 허깅페이스 - NLP](https://hipster4020.tistory.com/176)
 * https://github.com/huggingface
   
-## NLP ##
-
-* [형태소 분석기 정리](https://hipster4020.tistory.com/184)
-* [[Paper Review] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG)](https://www.youtube.com/watch?v=gtOdvAQk6YU)
-* [Huggingface NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf)
-* [Huggingface NLP Course - Korean](https://wikidocs.net/book/8056)
-* [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
-* [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 ## ChatBot ##
 
