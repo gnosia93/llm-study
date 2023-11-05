@@ -89,6 +89,8 @@
 #### Alpaca - https://github.com/tatsu-lab/stanford_alpaca ####
 * [스탠포드 알파카 Stanford Alpaca 코드분석 - 학습데이터 생성(Self Instruct)](https://www.youtube.com/watch?v=dLo4QkEq-Hg)
 * [스탠포드 알파카 Stanford Alpaca 코드분석 - 파인튜닝](https://www.youtube.com/watch?v=u2tQYgrLouo)
+#### KoAlpaca ####
+* [명령어를 이해하는 오픈소스 언어 모델 ‘KoAlpaca’ 개발기](https://www.youtube.com/watch?v=7HbugcCBXwE)
 
 
 ## LLM & LangChain ##
