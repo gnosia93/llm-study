@@ -70,8 +70,6 @@
 
   * [딥러닝 분산학습](https://lifeisenjoyable.tistory.com/21)
   * [[챗GPT 러닝데이 | 챗GPT말고 LLM] 딥러닝 병렬처리 및 Polyglot 언어모델](https://www.youtube.com/watch?v=a0TB-_WFjNk)
-  * https://learn.microsoft.com/ko-kr/azure/machine-learning/concept-distributed-training?view=azureml-api-2
-  * ....
   * [C++ 병렬처리](https://m.blog.naver.com/PostView.naver?blogId=enter_maintanance&logNo=221830860742&categoryNo=17&proxyReferer=)
     
 ### MLPerf ###
@@ -85,15 +83,11 @@
 
 
 
-## LLM ##
- * https://a16z.com/emerging-architectures-for-llm-applications/
- * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
- * [LLM Inference Optimization Techniques](https://medium.com/ai-in-plain-english/llm-inference-optimization-techniques-f443e6a48a42)
- * [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
- * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
- * https://ggml.ai/
+## LLM & LangChain ##
 
-## LangChain ###
+* [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
+* [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
+
 
 * [langchain-how-to-create-custom-knowledge-chatbots](https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/)
 * https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
