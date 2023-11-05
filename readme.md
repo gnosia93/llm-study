@@ -87,21 +87,9 @@
 
 * [🦜️ LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯](https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
 * [프롬프트 엔지니어링 가이드](https://www.promptingguide.ai/kr)
-
-
 * [langchain-how-to-create-custom-knowledge-chatbots](https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/)
 * https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
-* [랭체인 에이전트와 도구 사용하기](https://anpigon.tistory.com/399)
-* [Google Sarch API](https://zzaebok.github.io/machine_learning/llm/langchain/)
-* [문서요약](https://teddylee777.github.io/langchain/langchain-tutorial-05/)
-* [데이터분석](https://teddylee777.github.io/langchain/langchain-tutorial-04/)
-* [챗모듈](https://teddylee777.github.io/langchain/langchain-tutorial-03/)
-* [튜토리얼](https://github.com/gkamradt/langchain-tutorials)
-  - https://python.langchain.com/docs/get_started/introduction
-  * #4. [Building a Document-based Question Answering System with LangChain using LLM model](https://medium.com/@nageshmashette32/building-a-document-based-question-answering-system-with-langchain-using-llm-model-fb22e47a965c)
-  * #3. [LangChain이란? LangChain으로 강력한 LLM 서비스 구축하기](https://hipster4020.tistory.com/189)
-  * #2. [WebResearchRetriever을 활용하여 RAG (Retrieval Augmented Generation) 구현하기](https://littlefoxdiary.tistory.com/116)
-  * #1. [LangChain이란? | 파이썬으로 LangChain 시작하기](https://littlefoxdiary.tistory.com/114)
+
 
 
 ## AWS / SageMaker / Huggingface ##
@@ -148,6 +136,8 @@
 * [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
 * [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq)
 
+## 블로그s ##
+* [ChatGPT, LLaMA 그리고 이젠 Alpaca?](https://devocean.sk.com/blog/techBoardDetail.do?ID=164659)
 
   
 ## 참고 사이트 ##
