@@ -8,6 +8,10 @@
   * https://github.com/SKTBrain/KoBERT
     
 
+### Transformer ###
+  * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
+  * [[챗GPT 러닝데이] Transformer 모델 개요와 GPT3 모델 활용 실습](https://www.youtube.com/watch?v=uzcRCmg9hlc)
+  * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
    
 ### RAG ###
 
@@ -43,17 +47,12 @@
     * https://github.com/ludwig-ai/ludwig/tree/master 
 
 
-### Fine Tunning Guide ###
-  - https://www.udemy.com/course/llm-part-1-llama-2-fine-tuning/
+### Fine Tunning ###
   - [Fine-tuning Llama 2 on Your Own Dataset](https://www.google.com/search?q=llm+fine+tunning&rlz=1C5GCEM_enKR1026KR1026&oq=LLM+fine&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQk3MTU1ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7393269a,vid:MDA3LUKNl1E,st:0)
   - [Q: How to create an Instruction Dataset for Fine-tuning my LLM?](https://www.youtube.com/watch?v=BJQrQT2Xfyo)
-
   - [모두를 위한 대규모 언어 모델 LLM Part 1 - Llama 2 Fine-Tuning 해보기](https://www.udemy.com/course/llm-part-1-llama-2-fine-tuning/)
       
-### Transformer ###
-  * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
-  * [[챗GPT 러닝데이] Transformer 모델 개요와 GPT3 모델 활용 실습](https://www.youtube.com/watch?v=uzcRCmg9hlc)
-  * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
 
 
 ### MLOps ###
