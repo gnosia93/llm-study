@@ -88,6 +88,7 @@
 * [모두를 위한 대규모 언어 모델 LLM Part 1 - Llama 2 Fine-Tuning 해보기](https://www.udemy.com/course/llm-part-1-llama-2-fine-tuning/)
       
 #### Alpaca - https://github.com/tatsu-lab/stanford_alpaca ####
+* [메타의 언어모델, LLaMA 라마 코드분석](https://www.youtube.com/watch?v=jvYpv9VJBOA)
 * [스탠포드 알파카 Stanford Alpaca 코드분석 - 학습데이터 생성(Self Instruct)](https://www.youtube.com/watch?v=dLo4QkEq-Hg)
 * [스탠포드 알파카 Stanford Alpaca 코드분석 - 파인튜닝](https://www.youtube.com/watch?v=u2tQYgrLouo)
 
@@ -130,7 +131,6 @@
 
 ## 코드 분석 ##
 
-* [ChatGPT보다 성능이 더 뛰어나다? _ 메타의 언어모델, LLaMA 라마 코드분석](https://www.youtube.com/watch?v=jvYpv9VJBOA)
 
 
 * [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
