@@ -92,6 +92,11 @@
 * [😎경량화! 노트북에 구축하는 대규모 언어모델 GPT4All😎 (feat, ChatGPT, GPT3.5, LLaMA, Alpaca, Vicuna)](https://www.youtube.com/watch?v=HewtI35-lp8)
 * [[Paper Review] Democratizing Large Language Models : From 175B to 7B](https://www.youtube.com/watch?v=ORYQU0RYn_M)
 
+
+## Diffusion Model ##
+
+* [[Paper Review] Denoising Diffusion Probabilistic Models](https://www.youtube.com/watch?v=_JQSMhqXw-4)
+
   
 ## 참고 사이트 ##
 * 한국인공지능 아카데미 - https://www.youtube.com/watch?v=vziygFrRlZ4
