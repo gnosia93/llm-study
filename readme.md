@@ -1,4 +1,4 @@
-## ML Fundamentals ##
+## Fundamentals ##
 
 ### NLP ###
 * [형태소 분석기 정리](https://hipster4020.tistory.com/184)
