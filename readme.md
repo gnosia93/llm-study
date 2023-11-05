@@ -124,6 +124,7 @@
 
 
 ## 코드리뷰 / 디버깅 ##
+* [ChatGPT보다 성능이 더 뛰어나다? _ 메타의 언어모델, LLaMA 라마 코드분석](https://www.youtube.com/watch?v=jvYpv9VJBOA)
 * [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
 * [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq)
 
