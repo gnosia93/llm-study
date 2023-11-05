@@ -127,7 +127,7 @@
 * [ChatGPT보다 성능이 더 뛰어나다? _ 메타의 언어모델, LLaMA 라마 코드분석](https://www.youtube.com/watch?v=jvYpv9VJBOA)
 
 ### Alpaca - https://github.com/tatsu-lab/stanford_alpaca ###
-* [ChatGPT 대안을 제시하다 - 스탠포드 알파카 Stanford Alpaca 코드리뷰 (feat, LLaMa + GPT3.5 vs ChatGPT)](https://www.youtube.com/watch?v=dLo4QkEq-Hg)
+* [스탠포드 알파카 Stanford Alpaca 코드리뷰 (feat, LLaMa + GPT3.5 vs ChatGPT)](https://www.youtube.com/watch?v=dLo4QkEq-Hg)
 * [😎파인튜닝 fine-tuning 😎 내 데이터로 학습해보자 - 스탠포드 알파카 Stanford Alpaca 코드분석 (feat, LLaMa + GPT3.5 vs ChatGPT)
 ](https://www.youtube.com/watch?v=u2tQYgrLouo)
 * [😎ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA😎](https://www.youtube.com/watch?v=T1XadeiKl1M)
