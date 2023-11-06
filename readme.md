@@ -99,6 +99,10 @@
 * [Diffusion Model 수학이 포함된 tutorial](https://www.youtube.com/watch?v=uFoGaIVHfoE)
 * [Diffusion Model 설명 – 기초부터 응용까지](https://ffighting.net/deep-learning-paper-review/diffusion-model/diffusion-model-basic/)
 
+
+## Paper Review ##
+
+* [[20′ NIPS] GPT-3 : Language Models are Few-Shot Learners](https://ffighting.net/deep-learning-paper-review/language-model/gpt-3/)
   
 ## 참고 사이트 ##
 * 한국인공지능 아카데미 - https://www.youtube.com/watch?v=vziygFrRlZ4
