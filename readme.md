@@ -96,7 +96,7 @@
 ## Diffusion Model ##
 
 * [[Paper Review] Denoising Diffusion Probabilistic Models](https://www.youtube.com/watch?v=_JQSMhqXw-4)
-
+* [Diffusion Model 수학이 포함된 tutorial](https://www.youtube.com/watch?v=uFoGaIVHfoE)
   
 ## 참고 사이트 ##
 * 한국인공지능 아카데미 - https://www.youtube.com/watch?v=vziygFrRlZ4
