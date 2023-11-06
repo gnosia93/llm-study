@@ -104,8 +104,6 @@
 
 * [[17′ NIPS] Transformer : Attention Is All You Need](https://ffighting.net/deep-learning-paper-review/language-model/transformer/)
 * [[20′ NIPS] GPT-3 : Language Models are Few-Shot Learners](https://ffighting.net/deep-learning-paper-review/language-model/gpt-3/)
-
-
 * [https://paperswithcode.com/sota](https://paperswithcode.com/sota)
   
 ## 참고 사이트 ##
