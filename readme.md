@@ -63,7 +63,7 @@
  #### sagemaker ####
  * https://github.com/huggingface/notebooks/tree/main/sagemaker
  * [Deep Learning 모델의 효과적인 분산 트레이닝과 모델 최적화 방법](https://www.youtube.com/watch?v=UFCY8YpyRkI)
-         
+ * [Distributed ML training with PyTorch and Amazon SageMaker - AWS Virtual Workshop](https://www.youtube.com/watch?v=D9n_GPfcFhc)      
 ### MLPerf ###
 
   * https://github.com/mlcommons/inference
