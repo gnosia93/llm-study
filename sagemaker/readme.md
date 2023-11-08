@@ -22,6 +22,10 @@
 
   [Huggingface Sagemaker SDK]
   * https://github.com/huggingface/notebooks/blob/main/sagemaker/04_distributed_training_model_parallelism/sagemaker-notebook.ipynb
+
+* DeepSpeed
+  * https://github.com/aws-samples/training-llm-on-sagemaker-for-multiple-nodes-with-deepspeed
+  
     
 #### Docs ####
 * [sagemaker model parallism library](https://docs.aws.amazon.com/sagemaker/latest/dg/model-parallel.html)
