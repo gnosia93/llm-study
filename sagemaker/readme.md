@@ -12,7 +12,8 @@
   * [Introducing SageMaker Model Parallelism - Model Parallel](https://www.youtube.com/watch?v=eo2zgncnf-M)
   * [Train billion-parameter models with model parallelism on Amazon SageMaker](https://www.youtube.com/watch?v=vv52RsBM8o4)
   * https://github.com/aws/amazon-sagemaker-examples/blob/main/training/distributed_training/tensorflow/model_parallel/mnist/tensorflow_smmodelparallel_mnist.ipynb
-
+  * https://github.com/aws/amazon-sagemaker-examples/tree/main/training/distributed_training/pytorch/model_parallel
+    
 #### Docs ####
 * https://docs.aws.amazon.com/sagemaker/latest/dg/training-compiler.html
 * https://github.com/huggingface/notebooks/tree/main/sagemaker
