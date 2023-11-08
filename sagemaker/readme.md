@@ -5,8 +5,9 @@
 
 #### 분산학습 ####
 
-* [Distributed ML training with PyTorch and Amazon SageMaker - Data Parallel](https://www.youtube.com/watch?v=D9n_GPfcFhc)
-  * https://github.com/shashankprasanna/pytorch-sagemaker-distributed-workshop/tree/main
+* Data Parallel
+  * [Distributed ML training with PyTorch and Amazon SageMaker - Data Parallel](https://www.youtube.com/watch?v=D9n_GPfcFhc)
+    * https://github.com/shashankprasanna/pytorch-sagemaker-distributed-workshop/tree/main
 
 * Model Parallel
   
