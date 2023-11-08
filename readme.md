@@ -74,7 +74,7 @@
 * [Part 2: What is Distributed Data Parallel (DDP)](https://www.youtube.com/watch?v=Cvdhwx-OBBo&list=PL_lsbAsL_o2CSuhUhJIiW0IkdT5C2wGWj&index=2)
 #### DeepSpeed ####
 * [DeepSpeed: All the tricks to scale to gigantic models](https://www.youtube.com/watch?v=pDGI668pNg0)
-
+* [Microsoft DeepSpeed introduction at KAUST](https://www.youtube.com/watch?v=wbG2ZEDPIyw)
 
 ## Fine Tunning ##
 ![](https://github.com/gnosia93/llm-study/blob/main/vast-ai.png)
