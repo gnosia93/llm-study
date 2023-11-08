@@ -60,7 +60,7 @@
 * [딥러닝 분산학습](https://lifeisenjoyable.tistory.com/21)
 * [[챗GPT 러닝데이 | 챗GPT말고 LLM] 딥러닝 병렬처리 및 Polyglot 언어모델](https://www.youtube.com/watch?v=a0TB-_WFjNk)
 * [C++ 병렬처리](https://m.blog.naver.com/PostView.naver?blogId=enter_maintanance&logNo=221830860742&categoryNo=17&proxyReferer=)
-#### LLaMA ####
+#### sagemaker ####
 * https://github.com/huggingface/notebooks/tree/main/sagemaker
 * * [Deep Learning 모델의 효과적인 분산 트레이닝과 모델 최적화 방법](https://www.youtube.com/watch?v=UFCY8YpyRkI)
         
