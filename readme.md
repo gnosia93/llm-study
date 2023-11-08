@@ -67,7 +67,8 @@
 * [A friendly introduction to distributed training (ML Tech Talks)](https://www.youtube.com/watch?v=S1tN9a4Proc)
 #### Pytorch DDP ####
 * [Part 1: Welcome to the Distributed Data Parallel (DDP) Tutorial Series](https://www.youtube.com/watch?v=-K3bZYHYHEA&list=PL_lsbAsL_o2CSuhUhJIiW0IkdT5C2wGWj)
-* [Part 2: What is Distributed Data Parallel (DDP)](https://www.youtube.com/watch?v=Cvdhwx-OBBo&list=PL_lsbAsL_o2CSuhUhJIiW0IkdT5C2wGWj&index=2)  
+* [Part 2: What is Distributed Data Parallel (DDP)](https://www.youtube.com/watch?v=Cvdhwx-OBBo&list=PL_lsbAsL_o2CSuhUhJIiW0IkdT5C2wGWj&index=2)
+#### DeepSpeed ####
 * [DeepSpeed: All the tricks to scale to gigantic models](https://www.youtube.com/watch?v=pDGI668pNg0)
 
 
