@@ -54,8 +54,12 @@
 * [langchain-how-to-create-custom-knowledge-chatbots](https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/)
 * https://lablab.ai/t/ai-agents-tutorial-how-to-use-and-create-them
 
+### MLPerf ###
+
+  * https://github.com/mlcommons/inference
+
     
-### 분산학습 ###
+## 분산학습 ##
 
 * [딥러닝 분산학습](https://lifeisenjoyable.tistory.com/21)
 * [[챗GPT 러닝데이 | 챗GPT말고 LLM] 딥러닝 병렬처리 및 Polyglot 언어모델](https://www.youtube.com/watch?v=a0TB-_WFjNk)
@@ -64,9 +68,7 @@
 #### Pytorch DDP ####
 * [Part 1: Welcome to the Distributed Data Parallel (DDP) Tutorial Series](https://www.youtube.com/watch?v=-K3bZYHYHEA&list=PL_lsbAsL_o2CSuhUhJIiW0IkdT5C2wGWj)
   
-### MLPerf ###
 
-  * https://github.com/mlcommons/inference
 
 
 
