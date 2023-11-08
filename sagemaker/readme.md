@@ -21,5 +21,5 @@
     * https://github.com/aws/amazon-sagemaker-examples/tree/main/training/distributed_training/pytorch/model_parallel
     
 #### Docs ####
-* https://docs.aws.amazon.com/sagemaker/latest/dg/training-compiler.html
+* [sagemaker model parallism library](https://docs.aws.amazon.com/sagemaker/latest/dg/model-parallel.html)
 * https://github.com/huggingface/notebooks/tree/main/sagemaker
