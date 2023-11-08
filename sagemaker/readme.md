@@ -19,6 +19,9 @@
   [Pytorch]
   * [At-scale Training with pyTorch and Amazon SageMaker | Andrea Olgiati](https://www.youtube.com/watch?v=ZCbfyPPdmS4)
     * https://github.com/aws/amazon-sagemaker-examples/tree/main/training/distributed_training/pytorch/model_parallel
+
+  [Huggingface Sagemaker SDK]
+  * https://github.com/huggingface/notebooks/blob/main/sagemaker/04_distributed_training_model_parallelism/sagemaker-notebook.ipynb
     
 #### Docs ####
 * [sagemaker model parallism library](https://docs.aws.amazon.com/sagemaker/latest/dg/model-parallel.html)
