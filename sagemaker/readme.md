@@ -9,5 +9,7 @@
   * https://github.com/shashankprasanna/pytorch-sagemaker-distributed-workshop/tree/main
 * [Introducing SageMaker Model Parallelism - Model Parallel](https://www.youtube.com/watch?v=eo2zgncnf-M)
 
+
+## 레퍼런스 ##
 * https://docs.aws.amazon.com/sagemaker/latest/dg/training-compiler.html
 * https://github.com/huggingface/notebooks/tree/main/sagemaker
