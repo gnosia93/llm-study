@@ -2,6 +2,12 @@
 
 * https://github.com/marshmellow77/falcon-document-chatbot
 
+
+## LangChain ##
+
+* https://www.gettingstarted.ai/integrating-and-handling-llm-memory-using-langchain/
+
+
 ## ChatBot ##
 
 * https://dev.to/aws/building-an-aws-well-architected-chatbot-with-langchain-13cd
