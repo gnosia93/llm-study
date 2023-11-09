@@ -2,6 +2,8 @@
 
 * [Amazon SageMaker 모델 학습 방법 소개](https://www.youtube.com/watch?v=oQ7glJfD-BQ)
 * [Deep Learning 모델의 효과적인 분산 트레이닝과 모델 최적화 방법](https://www.youtube.com/watch?v=UFCY8YpyRkI)
+* [NLP models: from the Hugging Face hub to Amazon SageMaker... and back!](https://www.youtube.com/watch?v=aiJaAWFGL7k)
+
 
 #### 분산학습 ####
 
