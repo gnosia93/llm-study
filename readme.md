@@ -115,6 +115,10 @@
 * [[20′ NIPS] GPT-3 : Language Models are Few-Shot Learners](https://ffighting.net/deep-learning-paper-review/language-model/gpt-3/)
 * [https://paperswithcode.com/sota](https://paperswithcode.com/sota)
   
+
+## LLM ##
+* https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+  
 ## 참고 사이트 ##
 * 한국인공지능 아카데미 - https://www.youtube.com/watch?v=vziygFrRlZ4
 * https://www.youtube.com/@code4AI/featured  
