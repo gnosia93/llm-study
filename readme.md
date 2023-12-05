@@ -12,7 +12,7 @@
 * https://github.com/SKTBrain/KoBERT
 
 ### Transformer ###
-  * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w)    
+  * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w) 40:00    
   * [[챗GPT 러닝데이] Transformer 모델 개요와 GPT3 모델 활용 실습](https://www.youtube.com/watch?v=uzcRCmg9hlc)
   * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
