@@ -16,18 +16,17 @@
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w) 40:00    
   * [[챗GPT 러닝데이] Transformer 모델 개요와 GPT3 모델 활용 실습](https://www.youtube.com/watch?v=uzcRCmg9hlc)
-  * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
   * [워드 임베딩 개념 / 환경 뉴스 데이터 맛보기 (김도형 연구원)](https://www.youtube.com/watch?v=mcPnxm-pfSM)
   * [워드 임베딩의 한계 / 문장 임베딩 / Bidirectional Model / Attention / BERT (김도형 연구원)](https://www.youtube.com/watch?v=F10Ii6x2y3Q)
   * [BERT 자세히 들여다보기 / Hugging Face / Tensorboard / Pytorch Lightening / BERT를 사용하여 환경 데이터 분류하기 (김도형 연구원)
   ](https://www.youtube.com/watch?v=wRMOO9uc6do)
   * https://github.com/SKTBrain/KoBERT
 
-### Huggingface ###
 
-* [Huggingface NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf)
-* [Huggingface NLP Course - Korean](https://wikidocs.net/book/8056)
-   
+
+### GPT ###
+  
+ *   Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
   
 
