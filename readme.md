@@ -10,8 +10,8 @@
 
 * [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
 * [파이토치로 시작하는 딥러닝 입문](https://wikidocs.net/book/2788)
-* [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
-* [Stanford University School of Engineering CS231N-CNN](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+* [Stanford CS224N-NLP](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+* [Stanford CS231N-CNN](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ### Transformer ###
   * [Transformer 강의 1 - Attention 설명](https://www.youtube.com/watch?v=kyIw0nHoG9w) 40:00    
