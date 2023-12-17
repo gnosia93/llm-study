@@ -1,8 +1,19 @@
 ## Fundamentals ##
 
+### PyTorch ###
+
+* https://tutorials.pytorch.kr/beginner/basics/intro.html
+* [파이토치 튜토리얼](https://github.com/yunjey/pytorch-tutorial?tab=readme-ov-file)
+
+
 ### NLP ###
 * [형태소 분석기 정리](https://hipster4020.tistory.com/184)
 * [딥러닝을 위한 자연언어 처리 입문](https://wikidocs.net/book/2155)
+* [파이토치로 시작하는 딥러닝 입문](https://wikidocs.net/book/2788)
+
+
+
+
 * [Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 * [워드 임베딩 개념 / 환경 뉴스 데이터 맛보기 (김도형 연구원)](https://www.youtube.com/watch?v=mcPnxm-pfSM)
