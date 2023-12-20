@@ -32,7 +32,7 @@
 ### Fine Tuning ###
 
 * [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
-
+ * [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) 
   
 
 ### Quantization / PEFT ###
