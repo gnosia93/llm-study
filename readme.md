@@ -31,9 +31,13 @@
 
 ### Fine Tuning ###
 
+* [HuggingFace PEFT](https://huggingface.co/docs/peft/index)
+
 * [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
   * [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) 
   
+
+
 
 ### Quantization ###
   - [딥러닝 Quantization(양자화) 정리](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC)
