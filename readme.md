@@ -28,6 +28,11 @@
   
  * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
+
+## Fine Tunig ##
+
+* [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU)
+
   
 
 ### Quantization / PEFT ###
