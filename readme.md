@@ -2,7 +2,7 @@
 
 ### PyTorch ###
 
-* https://tutorials.pytorch.kr/beginner/basics/intro.html
+* https://pytorch.org/tutorials/beginner/basics/intro.html
 * [파이토치 튜토리얼](https://github.com/yunjey/pytorch-tutorial?tab=readme-ov-file)
 
 
