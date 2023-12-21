@@ -41,7 +41,7 @@
 ### Quantization ###
 
 * https://huggingface.co/docs/peft/developer_guides/quantization
-
+* [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/pdf/2208.07339.pdf)
 
 ---
   - [딥러닝 Quantization(양자화) 정리](https://velog.io/@jooh95/%EB%94%A5%EB%9F%AC%EB%8B%9D-Quantization%EC%96%91%EC%9E%90%ED%99%94-%EC%A0%95%EB%A6%AC)
