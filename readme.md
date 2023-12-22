@@ -4,6 +4,7 @@
 
 * https://pytorch.org/tutorials/beginner/basics/intro.html
 * [파이토치 튜토리얼](https://github.com/yunjey/pytorch-tutorial?tab=readme-ov-file)
+* [NVIDIA GPU 보는법](https://velog.io/@claude_ssim/NVIDIA-GPU-%EB%B3%B4%EB%8A%94%EB%B2%95nvidia-smi)
 
 
 ### NLP / CNN ###
